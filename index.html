@@ -38,7 +38,7 @@
   <!-- Compiled and minified JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
   </head>
-  <body id = "top-page" class="scrollspy" style="background-color:#90a4ae;">
+  <body id = "top-page" class="scrollspy">
     <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
       <script type="text/javascript" src="js/materialize.min.js"></script>
@@ -51,6 +51,16 @@
     $('.scrollspy').scrollSpy();
   });
 
+	</script>
+	<script>
+	$(document).ready(function(){
+      $('.parallax').parallax();
+    });
+	</script>
+	<script>
+	.parallax-container {
+      height: 100px;
+    }
 	</script>
 	<header id="header">
       <!-- Navigation -->
@@ -65,7 +75,7 @@
                 <a href="#education" class="waves-effect">Education</a>
               </li>
               <li>
-                <a href="#works" class="waves-effect">Work Experience</a>
+                <a href="#projects" class="waves-effect">Projects</a>
               </li>
               <li>
                 <a href="#skills" class="waves-effect">Skills</a>
@@ -113,10 +123,12 @@
       </div>
       <!-- # Mobile Navigation End # -->
       <!-- Header Content -->
-	  
+	  <div class="parallax-container">
+    <div class="parallax"><img src="images/ms.jpg"></div>
+  </div>
       <div class="dark-bg header-wrap">
 	  <div class="header-content">
-          <h1>My name is <strong>Prakritidev Verma</strong> |</h1>
+          <h1 align="center">My name is <strong>Prakritidev Verma</strong> |</h1>
           
         </div>
 	  </div>
@@ -142,34 +154,22 @@
           </thead>
           <tbody>
             <tr>
-              <td class="col1"><img src="images/Education/Education_Building_2.png" alt="Massachusetts Institute of Technology (MIT)" class="circle"></td>
-              <td class="col2">Massachusetts Institute of Technology (MIT)</td>
-              <td class="col3">English Exam British Sales Operation</td>
-              <td class="col4">2005 - 2006</td>
+              <td class="col1"><img src="images/dav.jpg" alt="Massachusetts Institute of Technology (MIT)" class="circle"></td>
+              <td class="col2">Bharati Vidyapeeth's College Of Engineering</td>
+              <td class="col3">Bachelor's Of Technology </td>
+              <td class="col4">2013 - 2017</td>
             </tr>
             <tr>
-              <td class="col1"><img src="images/Education/Education_Building_2.png" alt="University of Cambridge" class="circle"></td>
-              <td class="col2">University of Cambridge</td>
-              <td class="col3">Department of Economics</td>
-              <td class="col4">2007 - 2008</td>
-            </tr>
-            <tr>
-              <td class="col1"><img src="images/Education/Education_Building_2.png" alt="Imperial College London" class="circle"></td>
-              <td class="col2">Imperial College London</td>
-              <td class="col3">Economics Department</td>
-              <td class="col4">2009 - 2010</td>
-            </tr>
-            <tr>
-              <td class="col1"><img src="images/Education/Education_Building_2.png" alt="Harvard University" class="circle"></td>
-              <td class="col2">Harvard University</td>
-              <td class="col3">Paris School of Economics</td>
+              <td class="col1"><img src="images/dav.jpg" alt="University of Cambridge" class="circle"></td>
+              <td class="col2">Kalka Group of Institution</td>
+              <td class="col3">Class 12</td>
               <td class="col4">2011 - 2012</td>
             </tr>
             <tr>
-              <td class="col1"><img src="images/Education/Education_Building_2.png" alt="UCL (University College London)" class="circle"></td>
-              <td class="col2">UCL (University College London)</td>
-              <td class="col3">Graphic Design Deparment</td>
-              <td class="col4">2013 - 2015</td>
+              <td class="col1"><img src="images/dav.jpg" alt="Imperial College London" class="circle"></td>
+              <td class="col2">D.A.V Public School </td>
+              <td class="col3">Economics Department</td>
+              <td class="col4">2009 - 2010</td>
             </tr>
           </tbody>
         </table>
@@ -181,22 +181,22 @@
         <span class="icon btn-floating btn-large light-green darken-3"><i class="material-icons">work</i></span>
         <!-- # Icon End # -->
         <!-- Title -->
-        <h2 class="light-green-text text-darken-3">Work experience</h2>
+        <h2 class="light-green-text text-darken-3">Projects</h2>
         <!-- # Title End # -->
         <!-- Table -->
         <table class="highlight section-table">
           <thead>
             <tr>
               <th></th>
-              <th></th>
-              <th>Business Name / Department</th>
+              <th>Title</th>
+              <th> Role </th>
               <th>Date</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td class="col1"><img src="images/Works/Company_Logo_1.png" alt="IT Group Social Media Company" class="circle"></td>
-              <td class="col2">IT Group Social Media Company</td>
+              <td class="col1"><img src="images/Works/Company_Logo_1.png" alt="Hand Gesture Recognition" class="circle"></td>
+              <td class="col2">Hand Gesture Recognition</td>
               <td class="col3">Graphic Designer /
                 <span class="light-green-text text-darken-3">Lead Web Designer</span>
               </td>
@@ -229,7 +229,71 @@
           </tbody>
           <!-- # Table End # -->
         </table>
+		
+		<div class="container">
+		<div class="row">
+        <div class="col s5 m6">
+          <div class="card">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="images/ms.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+      <p><a href="#">This is a link</a></p>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    </div>
+	</div>
+	</div>
+	
+	 <div class="col s5 m6">
+          <div class="card">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="images/ms.jpg">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+      <p><a href="#">This is a link</a></p>
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    </div>
+	
+	
+	
+	
+	
+	
+	
+	</div>
+	</div>
+	
+	
+	
+	
+	
+	
+	</div>
+	</div>
+		
+		
       </section>
+	  
+	  <section id="contact" class="section scrollspy">
+	<div class="row">
+      <div class="col s12">This div is 12-columns wide</div>
+      <div class="col s6">This div is 6-columns wide</div>
+      <div class="col s6">This div is 6-columns wide</div>
+    </div>
+	
+	</section>
+	  
+	  
+	  
+	  
 	<section id="skills" class="section scrollspy">
         <!-- Icon -->
         <span class="icon btn-floating btn-large deep-orange accent-3"><i class="material-icons">assessment</i></span>
@@ -321,13 +385,10 @@
             <div class="clearfix"></div>
           </div>
         </div>
-		
-		
-		
-        <!-- # Contact Information End # -->
+		    <!-- # Contact Information End # -->
       </section>
 	</div>
-
+	
 	
   
   </body>
