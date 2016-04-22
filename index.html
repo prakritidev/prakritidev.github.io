@@ -41,44 +41,44 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/three.js"></script>
+	<style type ="text/css">
+	a:active { color: lime };
+	</style>
     <header id="header">
       <!-- Navigation -->
       <div id="navbar" class="navbar-fixed">
         <nav class="transparent">
           <div class="nav-wrapper">
-            <ul>
+            <ul class="right hide-on-med-and-down">
               <li>
-                <a href="#top-page" class="waves-effect">Hello</a>
+                <a href="#top-page" class="waves-effect" class ="active">Hello</a>
               </li>
               <li>
-                <a href="#education" class="waves-effect">Education</a>
+                <a href="#education" class="waves-effect" class ="active">Education</a>
               </li>
               <li>
-                <a href="#projects" class="waves-effect">Projects</a>
+                <a href="#projects" class="waves-effect" class ="active">Projects</a>
               </li>
               <li>
-                <a href="#skills" class="waves-effect">Skills</a>
+                <a href="#skills" class="waves-effect" class ="active">Skills</a>
               </li>
 			  <li>
-                <a href="#Extraskills" class="waves-effect"> Extra Skills</a>
+                <a href="#Extraskills" class="waves-effect" class ="active"> Extra Skills</a>
               </li>
               <li>
-                <a href="#contact" class="waves-effect">Contact</a>
+                <a href="#contact" class="waves-effect" class ="active">Contact</a>
               </li>
-            </ul>
+			
           </div>
         </nav>
       </div>
-      <!-- # Navigation End # -->
+	  <!-- # Navigation End # -->
       <!-- Mobile Navigation -->
       <div class="fixed-action-btn vertical click-to-toggle mobile-menu">
-        <a class="btn btn-floating btn-large light-bg"> <i class="large mdi-navigation-menu"></i> </a>
+        <a class="btn btn-floating btn-large light-bg"><i class="material-icons">menu</i></a>
         <ul>
           <li>
             <a class="btn-floating" href="#page-top"><i class="material-icons">home</i></a>
-          </li>
-          <li>
-            <a class="btn-floating white active" href="#education"><i class="material-icons cyan-text text-darken-2">account_balance</i></a>
           </li>
           <li>
             <a class="btn-floating light-green darken-3" href="#works"><i class="material-icons">work</i></a>
@@ -87,16 +87,7 @@
             <a class="btn-floating deep-orange accent-3" href="#skills"><i class="material-icons">assessment</i></a>
           </li>
           <li>
-            <a class="btn-floating deep-purple darken-3" href="#services"><i class="material-icons">important_devices</i></a>
-          </li>
-          <li>
-            <a class="btn-floating light-green darken-3" href="#portfolio"><i class="material-icons">queue_play_next</i></a>
-          </li>
-          <li>
-            <a class="btn-floating cyan darken-4" href="#price"><i class="material-icons">format_list_bulleted</i></a>
-          </li>
-          <li>
-            <a class="btn-floating deep-orange accent-3" href="#references"><i class="material-icons">assignment_ind</i></a>
+            <a class="btn-floating deep-orange accent-3" href="#Extraskills"><i class="material-icons">assessment</i></a>
           </li>
           <li>
             <a class="btn-floating lime darken-2" href="#contact"><i class="material-icons">mail_outline</i></a>
@@ -108,9 +99,8 @@
       </div>
       <div class="dark-bg header-wrap">
         <div class="header-content">
-		<
 		
-          <h1 align="center">My name is <strong>Prakritidev Verma</strong> |</h1>
+          <h1 align="center" >My name is <strong>Prakritidev Verma</strong> |</h1>
         </div>
       </div>
       <!-- # Header Content End # -->
@@ -135,21 +125,21 @@
         </thead>
         <tbody>
           <tr>
-            <td class="col1"><img src="images/dav.jpg" alt="Massachusetts Institute of Technology (MIT)" class="circle"></td>
+            <td class="col1"><img src="images/dav.jpg" alt="Bharati Vidyapeeth's College Of Engineering" class="circle"></td>
             <td class="col2">Bharati Vidyapeeth's College Of Engineering</td>
             <td class="col3">Bachelor's Of Technology </td>
             <td class="col4">2013 - 2017</td>
           </tr>
           <tr>
-            <td class="col1"><img src="images/dav.jpg" alt="University of Cambridge" class="circle"></td>
-            <td class="col2">Kalka Group of Institution</td>
+            <td class="col1"><img src="images/dav.jpg" alt="Kalka Group of Institution" class="circle"></td>
+            <td class="col2">Kalka Public School</td>
             <td class="col3">Class 12</td>
             <td class="col4">2011 - 2012</td>
           </tr>
           <tr>
-            <td class="col1"><img src="images/dav.jpg" alt="Imperial College London" class="circle"></td>
+            <td class="col1"><img src="images/dav.jpg" alt="D.A.V Public School" class="circle"></td>
             <td class="col2">D.A.V Public School </td>
-            <td class="col3">Economics Department</td>
+            <td class="col3">Class 10</td>
             <td class="col4">2009 - 2010</td>
           </tr>
         </tbody>
@@ -158,7 +148,7 @@
     </section>
     <section id="works" class="section scrollspy">
       <!-- Icon -->
-      <span class="icon btn-floating btn-large light-green darken-3"><i class="material-icons">work</i></span>
+      <span class="icon btn-floating btn-large light-green darken-2"><i class="material-icons">work</i></span>
       <!-- # Icon End # -->
       <!-- Title -->
       <h2 class="light-green-text text-darken-3">Projects</h2>
@@ -166,15 +156,15 @@
 		<div class="row">
         <div class="col s5 m6">
           <div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
+    <div class="card-image waves-effect waves-block waves-light" >
       <img class="activator" src="images/ms.jpg">
     </div>
-    <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
+    <div class="card-content" >
+      <span class="card-title activator grey-text text-darken-4">Hand Gesture Recognition<i class="material-icons right">more_vert</i></span>
+      <p><a href="http://prakritidev.github.io/ProjectX/">Project Link</a></p>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+      <span class="card-title grey-text text-darken-4">Hand Gesture Recognition<i class="material-icons right">close</i></span>
       <p>Here is some more information about this product that is only revealed once clicked on.</p>
     </div>
 	</div>
@@ -186,18 +176,17 @@
       <img class="activator" src="images/ms.jpg">
     </div>
     <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
+      <span class="card-title activator grey-text text-darken-4">Finding related post<i class="material-icons right">more_vert</i></span>
+      <p><a href="http://prakritidev.github.io/ProjectX/">Project Link</a></p>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
+      <span class="card-title grey-text text-darken-4">Finding related post<i class="material-icons right">close</i></span>
+      <p>Finding related post indata base using Machine learning.</p>
     </div>
 	</div>
 	</div>
     </div>
-	</div>
-		
+	</div>	
     </section>
     <section id="skills" class="section scrollspy">
     <!-- Icon -->
@@ -344,8 +333,9 @@
     <div class="determinate red darken-4" style="width: 45%;"></div>
     </div>
     </div>
-	
+	<div class="clearfix"></div>
 	</section>
+	
     <section id="contact" class="section scrollspy">
     <!-- Icon -->
     <span class="icon btn-floating btn-large lime darken-2"><i class="material-icons">mail_outline</i></span>
