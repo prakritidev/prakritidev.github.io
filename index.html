@@ -48,10 +48,16 @@
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="js/three.js"></script>
 		<script type = "text/javascript" language = "javascript">
-         $(document).ready(function() {
-            $("div").warning();
-            $("p").warning();
+         $(document).ready(function(){
+      $('.parallax').parallax();
+    });
          });
+         <script type = "text/javascript" language = "javascript">
+         $(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+  });
+         });
+         
       </script>
 		
 		<header id="header">
@@ -102,6 +108,9 @@
 			<!-- Header Content -->
 			</div>
 		</header>
+		<div class="parallax-container">
+      <div class="parallax"><img src="images/parallax1.jpg"></div>
+    </div>
 		<div class="container">
 			<section id="education" class="section scrollspy" >
 				<!-- Icon -->
