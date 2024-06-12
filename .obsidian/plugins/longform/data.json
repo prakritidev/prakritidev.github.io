@@ -7,12 +7,23 @@
   "sessions": [
     {
       "start": "2024-06-12T17:54:20.145Z",
-      "total": 0,
+      "total": 6,
       "drafts": {
         "content/Tech/Index.md": {
+          "total": 6,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Git Advanced": 0,
+            "Git Basics": 6,
+            "Go - Defer": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
           "total": 0,
           "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
           }
         }
       }

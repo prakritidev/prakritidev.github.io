@@ -4,10 +4,10 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - "MySQL 8 Write Ahead Async Log "
-    - Git Advanced
-    - Git Basics
-    - Go - Defer
+    - Interviews - ParkingLot low Level Design
+    - Interviers - LeetCode
+    - Interviews - Hotel Booking (MMT)
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---
+

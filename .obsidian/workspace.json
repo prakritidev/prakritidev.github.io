@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "95e6c0b493aff0a9",
+        "id": "d6ce306e0937ac8d",
         "type": "tabs",
         "children": [
           {
-            "id": "65e25da1e890e549",
+            "id": "51847652b494601b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Low Level Desing/Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Low Level Desing/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Low Level Desing/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Low Level Desing/Index.md"
+              }
             }
           }
         ]
@@ -148,26 +156,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65e25da1e890e549",
+  "active": "51847652b494601b",
   "lastOpenFiles": [
-    "public/tags/WAL.html",
-    "public/tags/MySQL.html",
-    "public/tags/Git.html",
-    "public/tags/feature/filter.html",
-    "public/tags/feature/emitter.html",
-    "public/tags/feature",
-    "public/tags/feature.html",
-    "public/tags/component.html",
-    "public/tags/API.html",
-    "public/Tech/MySQL-8-Write-Ahead-Async-Log-.html",
-    "public/Tech/Index.html",
+    "content/Tech/Git Basics.md",
+    "content/Tech/Git Advanced.md",
+    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
+    "content/Low Level Desing/Interviews - Hotel Booking (MMT).md",
+    "content/Low Level Desing/Interviers - LeetCode.md",
+    "public/Low-Level-Desing/Interviews---Hotel-Booking-(MMt).html",
+    "public/Low-Level-Desing/Interviers---LeetCode.html",
+    "public/tags/DesignPrinciples.html",
+    "public/tags/OOPS.html",
+    "public/tags/ParkingLot.html",
+    "public/tags/LLD.html",
+    "public/Low-Level-Desing/Parking-Lot-low-Level-Design.html",
+    "content/Low Level Desing/Index.md",
+    "content/Low Level Desing/Praking Lot low Level Design. (Not from interview prespective).md",
+    "public/Low-Level-Desing/Praking-Lot-low-Level-Design.-(Not-from-interview-prespective).html",
+    "content/Low Level Desing/Untitled.md",
+    "content/Low Level Desing/Data.md",
+    "public/Low-Level-Desing/Untitled.html",
+    "public/Low-Level-Desing/Index.html",
     "content/index.md",
     "content/Readme.md",
     "content/Tech/MySQL 8 Write Ahead Async Log .md",
     "content/Tech/Index.md",
     "content/Tech/Go - Defer.md",
-    "content/Tech/Git Basics.md",
-    "content/Tech/Git Advanced.md",
     "templates/Readme.md",
     "README.md",
     "npm-image.md",
