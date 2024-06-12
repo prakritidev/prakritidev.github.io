@@ -7,15 +7,12 @@
   "sessions": [
     {
       "start": "2024-06-12T17:54:20.145Z",
-      "total": 6,
+      "total": 0,
       "drafts": {
         "content/Tech/Index.md": {
-          "total": 6,
+          "total": 0,
           "scenes": {
-            "Git Basics": 6,
-            "Git Advanced": 0,
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Go - Defer": 0
+            "MySQL 8 Write Ahead Async Log ": 0
           }
         }
       }

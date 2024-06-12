@@ -6,6 +6,36 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>&quot;Introduction&quot;</title>
+    <link>https://quartz.jzhao.xyz/Tech/Git-Basics</link>
+    <guid>https://quartz.jzhao.xyz/Tech/Git-Basics</guid>
+    <description>Git init Git add Git Commit.</description>
+    <pubDate>Wed, 12 Jun 2024 17:59:35 GMT</pubDate>
+  </item><item>
+    <title>&quot;Git Advanced&quot;</title>
+    <link>https://quartz.jzhao.xyz/Tech/Git-Advanced</link>
+    <guid>https://quartz.jzhao.xyz/Tech/Git-Advanced</guid>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2024 17:58:42 GMT</pubDate>
+  </item><item>
+    <title>&quot;MySQL 8 Write Ahead Async Log &quot;</title>
+    <link>https://quartz.jzhao.xyz/Tech/MySQL-8-Write-Ahead-Async-Log-</link>
+    <guid>https://quartz.jzhao.xyz/Tech/MySQL-8-Write-Ahead-Async-Log-</guid>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2024 17:58:21 GMT</pubDate>
+  </item><item>
+    <title>Index</title>
+    <link>https://quartz.jzhao.xyz/Tech/Index</link>
+    <guid>https://quartz.jzhao.xyz/Tech/Index</guid>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2024 17:57:29 GMT</pubDate>
+  </item><item>
+    <title>ReadMe</title>
+    <link>https://quartz.jzhao.xyz/Readme</link>
+    <guid>https://quartz.jzhao.xyz/Readme</guid>
+    <description>This is my shit.</description>
+    <pubDate>Wed, 12 Jun 2024 17:48:30 GMT</pubDate>
+  </item><item>
     <title>Welcome to Quartz</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
