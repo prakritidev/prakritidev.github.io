@@ -1,36 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/2018-AWS-GuideLines</loc>
-    <lastmod>2024-06-13T18:18:51.984Z</lastmod>
+    <lastmod>2024-06-13T18:19:09.641Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/AWS---EC2-AND-EBS</loc>
-    <lastmod>2024-06-13T17:59:52.609Z</lastmod>
+    <lastmod>2024-06-13T18:01:25.780Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Amazon-ElastiCache</loc>
-    <lastmod>2024-06-13T18:11:58.190Z</lastmod>
+    <lastmod>2024-06-13T18:12:48.013Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/DNS-and-Route53</loc>
-    <lastmod>2024-06-13T18:13:01.367Z</lastmod>
+    <lastmod>2024-06-13T18:15:49.789Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Database(RDS)-and-Redshift</loc>
-    <lastmod>2024-06-13T18:05:30.592Z</lastmod>
+    <lastmod>2024-06-13T18:06:52.447Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Elastic-Load-Balancing,-Amazon-CloudWatch,-and-Auto-Scaling</loc>
-    <lastmod>2024-06-13T18:07:13.885Z</lastmod>
+    <lastmod>2024-06-13T18:09:04.694Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Index</loc>
-    <lastmod>2024-06-13T17:58:58.308Z</lastmod>
+    <lastmod>2024-06-13T18:18:51.980Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/S3-and-Glacier</loc>
-    <lastmod>2024-06-13T18:10:55.283Z</lastmod>
+    <lastmod>2024-06-13T18:11:33.691Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/SQS,-SNS,-and-SWF</loc>
-    <lastmod>2024-06-13T18:02:59.321Z</lastmod>
+    <lastmod>2024-06-13T18:05:02.983Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Security-and-IAM</loc>
-    <lastmod>2024-06-13T18:01:51.168Z</lastmod>
+    <lastmod>2024-06-13T18:16:49.351Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/VPC-(Virtual-Private-Cloud)</loc>
-    <lastmod>2024-06-13T18:09:24.368Z</lastmod>
+    <lastmod>2024-06-13T18:10:43.460Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Low-Level-Desing/Index</loc>
     <lastmod>2024-06-12T18:25:28.072Z</lastmod>
@@ -42,68 +42,77 @@
     <lastmod>2024-06-12T18:23:39.686Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Low-Level-Desing/Interviews---ParkingLot-low-Level-Design</loc>
-    <lastmod>2024-06-12T18:22:42.443Z</lastmod>
+    <lastmod>2024-06-13T18:20:09.010Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</loc>
+    <lastmod>2024-06-13T19:06:48.622Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Tech/Battle---NodeJs-vs-Spring-Webflux</loc>
+    <lastmod>2024-06-13T19:01:10.196Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Bloom-Filter-Implementation-in-Java-</loc>
-    <lastmod>2024-06-13T17:44:48.962Z</lastmod>
+    <lastmod>2024-06-13T17:46:54.571Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Cloud-Design-Patterns</loc>
-    <lastmod>2024-06-13T18:17:41.666Z</lastmod>
+    <lastmod>2024-06-13T18:18:30.726Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</loc>
+    <lastmod>2024-06-13T19:04:23.922Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/GNU-Parallel---Alternative-to-Language-Programming</loc>
-    <lastmod>2024-06-13T17:41:39.705Z</lastmod>
+    <lastmod>2024-06-13T17:42:01.453Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Git-Advanced</loc>
     <lastmod>2024-06-12T18:00:20.959Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Git-Basics</loc>
-    <lastmod>2024-06-12T18:00:20.960Z</lastmod>
+    <lastmod>2024-06-13T17:33:06.914Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Index</loc>
-    <lastmod>2024-06-12T18:25:47.523Z</lastmod>
+    <lastmod>2024-06-13T18:17:41.664Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/JQ-(Basics)---Json-Processing-on-terminal</loc>
-    <lastmod>2024-06-13T17:38:10.141Z</lastmod>
+    <lastmod>2024-06-13T17:40:48.233Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Java---Count-Min-Sketch-</loc>
-    <lastmod>2024-06-13T17:45:18.969Z</lastmod>
+    <lastmod>2024-06-13T17:46:38.575Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Java---Multi-Threading-Why-</loc>
-    <lastmod>2024-06-13T17:37:09.825Z</lastmod>
+    <lastmod>2024-06-13T17:56:10.586Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Java---jdk-(open-source-getting-started)</loc>
-    <lastmod>2024-06-13T17:37:47.328Z</lastmod>
+    <lastmod>2024-06-13T17:56:31.957Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Java-Streams-(Part-1)</loc>
-    <lastmod>2024-06-12T18:28:41.427Z</lastmod>
+    <lastmod>2024-06-13T17:57:02.256Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/MySQL-8-Write-Ahead-Async-Log-</loc>
     <lastmod>2024-06-12T18:00:20.960Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Terminal---Warp-vs-iterm2</loc>
-    <lastmod>2024-06-13T17:53:59.518Z</lastmod>
+    <lastmod>2024-06-13T17:54:08.943Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/Transations---2-PC-and-3-PC-</loc>
-    <lastmod>2024-06-13T17:47:14.120Z</lastmod>
+    <lastmod>2024-06-13T17:47:55.526Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/What-is-IPC-</loc>
-    <lastmod>2024-06-13T17:49:15.564Z</lastmod>
+    <lastmod>2024-06-13T17:49:15.871Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/What-is-a-Socket-</loc>
-    <lastmod>2024-06-13T17:50:24.414Z</lastmod>
+    <lastmod>2024-06-13T17:50:37.180Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Tech/What-is-gRPC-</loc>
-    <lastmod>2024-06-13T17:49:09.791Z</lastmod>
+    <lastmod>2024-06-13T17:49:10.105Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Understanding-Of-Life/How-to-earn-respect-in-front-of-parents--index</loc>
-    <lastmod>2024-06-13T18:24:18.060Z</lastmod>
+    <lastmod>2024-06-13T18:24:46.549Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Understanding-Of-Life/Index</loc>
-    <lastmod>2024-06-13T18:22:06.196Z</lastmod>
+    <lastmod>2024-06-13T18:47:27.424Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Understanding-Of-Life/What-is-the-essence-of-this-series</loc>
-    <lastmod>2024-06-13T18:23:00.256Z</lastmod>
+    <lastmod>2024-06-13T18:23:27.071Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-06-12T18:00:20.961Z</lastmod>
+    <lastmod>2024-06-13T18:51:39.233Z</lastmod>
   </url></urlset>

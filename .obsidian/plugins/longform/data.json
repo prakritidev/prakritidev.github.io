@@ -1,34 +1,37 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "content/Understanding Of Life/Index.md",
+  "selectedDraftVaultPath": "content/Tech/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2024-06-13T18:47:27.417Z",
-      "total": 0,
+      "total": 3333,
       "drafts": {
         "content/Tech/Index.md": {
-          "total": 0,
+          "total": 3333,
           "scenes": {
             "MySQL 8 Write Ahead Async Log ": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
             "Java Streams (Part 1)": 0,
             "Java - Multi Threading Why ?": 0,
             "Java - jdk (open source getting started)": 0,
             "JQ (Basics) - Json Processing on terminal": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Bloom Filter Implementation in Java ": 0,
             "Java - Count Min Sketch ": 0,
             "Transations - 2 PC and 3 PC ": 0,
             "What is gRPC? ": 0,
             "What is IPC ?": 0,
             "What is a Socket ?": 0,
             "Terminal - Warp vs iterm2": 0,
-            "Cloud Design Patterns": 0
+            "Bloom Filter Implementation in Java ": 0,
+            "Cloud Design Patterns": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "Battle - NodeJs vs Spring Webflux": 1497,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 574,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 1262
           }
         },
         "content/Low Level Desing/Index.md": {
@@ -42,23 +45,16 @@
         "content/AWS Associate Architect Notes/Index.md": {
           "total": 0,
           "scenes": {
-            "AWS - EC2 AND EBS": 0,
             "Security and IAM": 0,
             "SQS, SNS, and SWF": 0,
-            "Database(RDS) and Redshift": 0,
-            "Elastic Load Balancing, Amazon CloudWatch, and Auto Scaling": 0,
             "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0,
-            "Amazon ElastiCache": 0,
-            "DNS and Route53": 0,
-            "2018 AWS GuideLines": 0
+            "S3 and Glacier": 0
           }
         },
         "content/Understanding Of Life/Index.md": {
           "total": 0,
           "scenes": {
-            "What is the essence of this series?": 0,
-            "How to earn respect in front of parents ? index": 0
+            "What is the essence of this series?": 0
           }
         }
       }
