@@ -1,10 +1,126 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "content/Tech/Index.md",
+  "selectedDraftVaultPath": "content/Understanding Of Life/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2024-06-13T18:47:27.417Z",
+      "total": 0,
+      "drafts": {
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Java - jdk (open source getting started)": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Java - Count Min Sketch ": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Cloud Design Patterns": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "AWS - EC2 AND EBS": 0,
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "Database(RDS) and Redshift": 0,
+            "Elastic Load Balancing, Amazon CloudWatch, and Auto Scaling": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0,
+            "Amazon ElastiCache": 0,
+            "DNS and Route53": 0,
+            "2018 AWS GuideLines": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0,
+            "How to earn respect in front of parents ? index": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-06-13T16:49:41.649Z",
+      "total": 9529,
+      "drafts": {
+        "content/Tech/Index.md": {
+          "total": 384,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Git Advanced": 0,
+            "Git Basics": 202,
+            "Go - Defer": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Java - jdk (open source getting started)": 0,
+            "JQ (Basics) - Json Processing on terminal": 11,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Java - Count Min Sketch ": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Cloud Design Patterns": 171
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 1107,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 1107,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 7833,
+          "scenes": {
+            "AWS - EC2 AND EBS": 709,
+            "Security and IAM": 573,
+            "SQS, SNS, and SWF": 772,
+            "Database(RDS) and Redshift": 576,
+            "Elastic Load Balancing, Amazon CloudWatch, and Auto Scaling": 1110,
+            "VPC (Virtual Private Cloud)": 1333,
+            "S3 and Glacier": 956,
+            "Amazon ElastiCache": 146,
+            "DNS and Route53": 1491,
+            "2018 AWS GuideLines": 167
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 205,
+          "scenes": {
+            "What is the essence of this series?": 166,
+            "How to earn respect in front of parents ? ": 39
+          }
+        }
+      }
+    },
     {
       "start": "2024-06-12T17:54:20.145Z",
       "total": 6,
@@ -15,7 +131,8 @@
             "MySQL 8 Write Ahead Async Log ": 0,
             "Git Advanced": 0,
             "Git Basics": 6,
-            "Go - Defer": 0
+            "Go - Defer": 0,
+            "Java - Streams": 0
           }
         },
         "content/Low Level Desing/Index.md": {

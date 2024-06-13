@@ -6,53 +6,65 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>&quot;Interviews - Hotel Booking (MMt)&quot;</title>
-    <link>https://quartz.jzhao.xyz/Low-Level-Desing/Interviews---Hotel-Booking-(MMt)</link>
-    <guid>https://quartz.jzhao.xyz/Low-Level-Desing/Interviews---Hotel-Booking-(MMt)</guid>
-    <description></description>
-    <pubDate>Wed, 12 Jun 2024 18:23:39 GMT</pubDate>
+    <title>&quot;How to earn respect in front of parents ? &quot;</title>
+    <link>https://quartz.jzhao.xyz/Understanding-Of-Life/How-to-earn-respect-in-front-of-parents--index</link>
+    <guid>https://quartz.jzhao.xyz/Understanding-Of-Life/How-to-earn-respect-in-front-of-parents--index</guid>
+    <description>Although it’s a very difficult topic to pick on, over the last decade I have seen some patterns that seemed very common amongst the parents and how they treat their children ...</description>
+    <pubDate>Thu, 13 Jun 2024 18:24:18 GMT</pubDate>
   </item><item>
-    <title>&quot;Interviers - LeetCode&quot;</title>
-    <link>https://quartz.jzhao.xyz/Low-Level-Desing/Interviers---LeetCode</link>
-    <guid>https://quartz.jzhao.xyz/Low-Level-Desing/Interviers---LeetCode</guid>
-    <description></description>
-    <pubDate>Wed, 12 Jun 2024 18:23:17 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://quartz.jzhao.xyz/Low-Level-Desing/Index</link>
-    <guid>https://quartz.jzhao.xyz/Low-Level-Desing/Index</guid>
-    <description></description>
-    <pubDate>Wed, 12 Jun 2024 18:18:41 GMT</pubDate>
+    <title>&quot;What is the essence of this series?&quot;</title>
+    <link>https://quartz.jzhao.xyz/Understanding-Of-Life/What-is-the-essence-of-this-series</link>
+    <guid>https://quartz.jzhao.xyz/Understanding-Of-Life/What-is-the-essence-of-this-series</guid>
+    <description>Over a considerable span of time, I’ve come to grasp certain insights that prove elusive when articulated in words alone. These notions often defy direct explanation; there isn’t a single book that encapsulates them neatly.</description>
+    <pubDate>Thu, 13 Jun 2024 18:23:00 GMT</pubDate>
   </item><item>
     <title>Index</title>
-    <link>https://quartz.jzhao.xyz/Tech/Index</link>
-    <guid>https://quartz.jzhao.xyz/Tech/Index</guid>
+    <link>https://quartz.jzhao.xyz/Understanding-Of-Life/Index</link>
+    <guid>https://quartz.jzhao.xyz/Understanding-Of-Life/Index</guid>
     <description></description>
-    <pubDate>Wed, 12 Jun 2024 18:00:20 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 18:22:06 GMT</pubDate>
   </item><item>
-    <title>&quot;Introduction&quot;</title>
-    <link>https://quartz.jzhao.xyz/Tech/Git-Basics</link>
-    <guid>https://quartz.jzhao.xyz/Tech/Git-Basics</guid>
-    <description>Git init Git add Git Commit.</description>
-    <pubDate>Wed, 12 Jun 2024 17:59:35 GMT</pubDate>
+    <title>&quot;2018 AWS GuideLines&quot;</title>
+    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/2018-AWS-GuideLines</link>
+    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/2018-AWS-GuideLines</guid>
+    <description>2018 AWS exams guidelines Domain 1: Design Resilient Architectures 1.1 Choose reliable/resilient storage. 1.2 Determine how to design decoupling mechanisms using AWS services.</description>
+    <pubDate>Thu, 13 Jun 2024 18:18:51 GMT</pubDate>
   </item><item>
-    <title>&quot;Git Advanced&quot;</title>
-    <link>https://quartz.jzhao.xyz/Tech/Git-Advanced</link>
-    <guid>https://quartz.jzhao.xyz/Tech/Git-Advanced</guid>
-    <description></description>
-    <pubDate>Wed, 12 Jun 2024 17:58:42 GMT</pubDate>
+    <title>&quot;Cloud Design Patterns&quot;</title>
+    <link>https://quartz.jzhao.xyz/Tech/Cloud-Design-Patterns</link>
+    <guid>https://quartz.jzhao.xyz/Tech/Cloud-Design-Patterns</guid>
+    <description>Cloud Design Patterns Scalability : Architecture that scale in a linear manner where adding extra resources results in at least a proportional increase in ability to serve additional ...</description>
+    <pubDate>Thu, 13 Jun 2024 18:17:41 GMT</pubDate>
   </item><item>
-    <title>&quot;MySQL 8 Write Ahead Async Log &quot;</title>
-    <link>https://quartz.jzhao.xyz/Tech/MySQL-8-Write-Ahead-Async-Log-</link>
-    <guid>https://quartz.jzhao.xyz/Tech/MySQL-8-Write-Ahead-Async-Log-</guid>
-    <description></description>
-    <pubDate>Wed, 12 Jun 2024 17:58:21 GMT</pubDate>
+    <title>&quot;DNS and Route53&quot;</title>
+    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/DNS-and-Route53</link>
+    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/DNS-and-Route53</guid>
+    <description>Domain Name System (DNS) and Amazon Route 53 (Need to go through again) Domain Name System (DNS) Amazon Route 53 is an authoritative DNS system. An authoritative DNS system provides an update mechanism that developers use to manage their public DNS names.</description>
+    <pubDate>Thu, 13 Jun 2024 18:13:01 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Wed, 12 Jun 2024 17:21:19 GMT</pubDate>
+    <title>&quot;Amazon ElastiCache&quot;</title>
+    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Amazon-ElastiCache</link>
+    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Amazon-ElastiCache</guid>
+    <description>Amazon ElastiCache Amazon ElastiCache is a web service that simplifies the setup and management of distributed in-memory caching environments. This service makes it easy and cost effective to provide a high-performance and scalable caching solution for your cloud applications.</description>
+    <pubDate>Thu, 13 Jun 2024 18:11:58 GMT</pubDate>
+  </item><item>
+    <title>&quot;S3 and Glacier&quot;</title>
+    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/S3-and-Glacier</link>
+    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/S3-and-Glacier</guid>
+    <description>Buckets : Global namespace [best practice to save name as organisation name]. Name with 63 lowercase number hyphens and periods. 100 buckets per account.</description>
+    <pubDate>Thu, 13 Jun 2024 18:10:55 GMT</pubDate>
+  </item><item>
+    <title>&quot;VPC (Virtual Private Cloud)&quot;</title>
+    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/VPC-(Virtual-Private-Cloud)</link>
+    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/VPC-(Virtual-Private-Cloud)</guid>
+    <description>VPC (Virtual Private Cloud) It’s a custom defined virtual network on aws cloud. It’s a networking layer for EC2 VPC is Logically Isolated even if It shares the IP address Can span along the availability zones When creating VPC we must select a CIDR range IPV4 address Range of CIDR can’t be changed after creation Range can be between /16 (65,536 available address) or /28 (16 available address) VPC consist of Following Component Subnets Route tables DHCP (Dynamic Host Config Protocol) option sets Security Groups Network Security Control List (ACL) Option components Internet Gateways Elastic IP Elastic Network Interfaces EndPoints Peering NAT instances and Gateways VPG (gateway) VPN Customer gateway Subnets Segment of VPC IP address range where we can launch aws services CIDR block defines subnet (192.0.1.0/24) or (192.0.0.0/24) AWS reserves first 4 address and last IP for itself.</description>
+    <pubDate>Thu, 13 Jun 2024 18:09:24 GMT</pubDate>
+  </item><item>
+    <title>&quot;Elastic Load Balancing, Amazon CloudWatch, and Auto Scaling&quot;</title>
+    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Elastic-Load-Balancing,-Amazon-CloudWatch,-and-Auto-Scaling</link>
+    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Elastic-Load-Balancing,-Amazon-CloudWatch,-and-Auto-Scaling</guid>
+    <description>These three services can be used very effectively together to create a highly available application with a resilient architecture on AWS. Elastic Load Balancing ELB distributes the incoming traffic to multiple EC2 instances in one or more availability zones.</description>
+    <pubDate>Thu, 13 Jun 2024 18:07:13 GMT</pubDate>
   </item>
     </channel>
   </rss>
