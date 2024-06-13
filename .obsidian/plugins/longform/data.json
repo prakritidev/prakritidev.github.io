@@ -7,10 +7,10 @@
   "sessions": [
     {
       "start": "2024-06-13T18:47:27.417Z",
-      "total": 3333,
+      "total": 3310,
       "drafts": {
         "content/Tech/Index.md": {
-          "total": 3333,
+          "total": 3310,
           "scenes": {
             "MySQL 8 Write Ahead Async Log ": 0,
             "Java Streams (Part 1)": 0,
@@ -29,7 +29,7 @@
             "Git Advanced": 0,
             "Git Basics": 0,
             "Go - Defer": 0,
-            "Battle - NodeJs vs Spring Webflux": 1497,
+            "Battle - NodeJs vs Spring Webflux": 1474,
             "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 574,
             "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 1262
           }

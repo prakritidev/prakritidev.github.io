@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <title>🪴 Prakritidev Verma</title>
+      <link>https://prakritidev.gihub.io</link>
+      <description>Last 10 notes on 🪴 Prakritidev Verma</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue</title>
-    <link>https://quartz.jzhao.xyz/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</link>
-    <guid>https://quartz.jzhao.xyz/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</guid>
-    <description>As a lead backend engineer and an avid finance enthusiast, my journey has blended advanced programming with machine learning insights in the finance sector ...</description>
-    <pubDate>Thu, 13 Jun 2024 19:06:48 GMT</pubDate>
+    <title>Battle - NodeJs vs Spring Webflux</title>
+    <link>https://prakritidev.gihub.io/Tech/Battle---NodeJs-vs-Spring-Webflux</link>
+    <guid>https://prakritidev.gihub.io/Tech/Battle---NodeJs-vs-Spring-Webflux</guid>
+    <description>Out of frustration and anger I decided to do compare these two framework I don’t have anger issue but after having conversation with developers and reading on blogs etc ...</description>
+    <pubDate>Thu, 13 Jun 2024 19:11:21 GMT</pubDate>
   </item><item>
     <title>Efficient Data Processing on a Budget - My Journey with File-Based Queues</title>
-    <link>https://quartz.jzhao.xyz/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</link>
-    <guid>https://quartz.jzhao.xyz/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</guid>
+    <link>https://prakritidev.gihub.io/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</link>
+    <guid>https://prakritidev.gihub.io/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</guid>
     <description>I want to share my experience with managing background tasks in a Python application, especially in the context of financial data processing. This isn’t just about choosing between file-based queues and Celery, but also about making decisions under hardware constraints and specific industry requirements.</description>
-    <pubDate>Thu, 13 Jun 2024 19:04:23 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 19:11:15 GMT</pubDate>
   </item><item>
-    <title>Battle - NodeJs vs Spring Webflux</title>
-    <link>https://quartz.jzhao.xyz/Tech/Battle---NodeJs-vs-Spring-Webflux</link>
-    <guid>https://quartz.jzhao.xyz/Tech/Battle---NodeJs-vs-Spring-Webflux</guid>
-    <description>Out of frustration and anger I decided to do compare these two framework I don’t have anger issue but after having conversation with developers and reading on blogs etc ...</description>
-    <pubDate>Thu, 13 Jun 2024 19:01:10 GMT</pubDate>
+    <title>A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue</title>
+    <link>https://prakritidev.gihub.io/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</link>
+    <guid>https://prakritidev.gihub.io/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</guid>
+    <description>As a lead backend engineer and an avid finance enthusiast, my journey has blended advanced programming with machine learning insights in the finance sector ...</description>
+    <pubDate>Thu, 13 Jun 2024 19:10:33 GMT</pubDate>
   </item><item>
-    <title>Data &amp; Code Chronicles</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Yohohohohoho (OnePiece reference)!, tech enthusiasts! Welcome to my blog, where we dive into the exciting and ever-evolving world of data engineering, machine learning, and system ...</description>
-    <pubDate>Thu, 13 Jun 2024 18:51:39 GMT</pubDate>
+    <title>MySQL 8 Write Ahead Async Log</title>
+    <link>https://prakritidev.gihub.io/Tech/MySQL-8-Write-Ahead-Async-Log-</link>
+    <guid>https://prakritidev.gihub.io/Tech/MySQL-8-Write-Ahead-Async-Log-</guid>
+    <description></description>
+    <pubDate>Thu, 13 Jun 2024 19:09:30 GMT</pubDate>
   </item><item>
     <title>Index</title>
-    <link>https://quartz.jzhao.xyz/Understanding-Of-Life/Index</link>
-    <guid>https://quartz.jzhao.xyz/Understanding-Of-Life/Index</guid>
+    <link>https://prakritidev.gihub.io/Tech/Index</link>
+    <guid>https://prakritidev.gihub.io/Tech/Index</guid>
     <description></description>
-    <pubDate>Thu, 13 Jun 2024 18:47:27 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 19:06:48 GMT</pubDate>
   </item><item>
-    <title>&quot;How to earn respect in front of parents ? &quot;</title>
-    <link>https://quartz.jzhao.xyz/Understanding-Of-Life/How-to-earn-respect-in-front-of-parents--index</link>
-    <guid>https://quartz.jzhao.xyz/Understanding-Of-Life/How-to-earn-respect-in-front-of-parents--index</guid>
-    <description>Although it’s a very difficult topic to pick on, over the last decade I have seen some patterns that seemed very common amongst the parents and how they treat their children ...</description>
-    <pubDate>Thu, 13 Jun 2024 18:24:46 GMT</pubDate>
-  </item><item>
-    <title>&quot;What is the essence of this series?&quot;</title>
-    <link>https://quartz.jzhao.xyz/Understanding-Of-Life/What-is-the-essence-of-this-series</link>
-    <guid>https://quartz.jzhao.xyz/Understanding-Of-Life/What-is-the-essence-of-this-series</guid>
-    <description>Over a considerable span of time, I’ve come to grasp certain insights that prove elusive when articulated in words alone. These notions often defy direct explanation; there isn’t a single book that encapsulates them neatly.</description>
-    <pubDate>Thu, 13 Jun 2024 18:23:27 GMT</pubDate>
-  </item><item>
-    <title>&quot;Parking Lot low Level Design&quot;</title>
-    <link>https://quartz.jzhao.xyz/Low-Level-Desing/Interviews---ParkingLot-low-Level-Design</link>
-    <guid>https://quartz.jzhao.xyz/Low-Level-Desing/Interviews---ParkingLot-low-Level-Design</guid>
-    <description>Parking Lot Design: Navigating the Tech Interview Maze I’ve been diving into the world of tech interviews lately, and I’ve got to admit, it’s been a bit disappointing ...</description>
-    <pubDate>Thu, 13 Jun 2024 18:20:09 GMT</pubDate>
-  </item><item>
-    <title>&quot;2018 AWS GuideLines&quot;</title>
-    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/2018-AWS-GuideLines</link>
-    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/2018-AWS-GuideLines</guid>
-    <description>2018 AWS exams guidelines Domain 1: Design Resilient Architectures 1.1 Choose reliable/resilient storage. 1.2 Determine how to design decoupling mechanisms using AWS services.</description>
-    <pubDate>Thu, 13 Jun 2024 18:19:09 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Index</link>
-    <guid>https://quartz.jzhao.xyz/AWS-Associate-Architect-Notes/Index</guid>
+    <title>&quot;Bloom Filter Implementation in Java &quot;</title>
+    <link>https://prakritidev.gihub.io/Tech/Bloom-Filter-Implementation-in-Java-</link>
+    <guid>https://prakritidev.gihub.io/Tech/Bloom-Filter-Implementation-in-Java-</guid>
     <description></description>
-    <pubDate>Thu, 13 Jun 2024 18:18:51 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
+  </item><item>
+    <title>&quot;JQ (Basics) - Json Processing on terminal&quot;</title>
+    <link>https://prakritidev.gihub.io/Tech/JQ-(Basics)---Json-Processing-on-terminal</link>
+    <guid>https://prakritidev.gihub.io/Tech/JQ-(Basics)---Json-Processing-on-terminal</guid>
+    <description>What is jq ? Why this is better than python or js ?.</description>
+    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
+  </item><item>
+    <title>&quot;Java - Count Min Sketch &quot;</title>
+    <link>https://prakritidev.gihub.io/Tech/Java---Count-Min-Sketch-</link>
+    <guid>https://prakritidev.gihub.io/Tech/Java---Count-Min-Sketch-</guid>
+    <description></description>
+    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
+  </item><item>
+    <title>&quot;Java - jdk (open source getting started)&quot;</title>
+    <link>https://prakritidev.gihub.io/Tech/Java---jdk-(open-source-getting-started)</link>
+    <guid>https://prakritidev.gihub.io/Tech/Java---jdk-(open-source-getting-started)</guid>
+    <description></description>
+    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
+  </item><item>
+    <title>&quot;Terminal - Warp vs iterm2&quot;</title>
+    <link>https://prakritidev.gihub.io/Tech/Terminal---Warp-vs-iterm2</link>
+    <guid>https://prakritidev.gihub.io/Tech/Terminal---Warp-vs-iterm2</guid>
+    <description></description>
+    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
   </item>
     </channel>
   </rss>
