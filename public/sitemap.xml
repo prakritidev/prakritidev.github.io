@@ -1,118 +1,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/2018-AWS-GuideLines</loc>
-    <lastmod>2024-06-13T18:54:11.503Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.585Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/AWS---EC2-AND-EBS</loc>
-    <lastmod>2024-06-13T18:54:11.503Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.585Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/Amazon-ElastiCache</loc>
-    <lastmod>2024-06-13T18:54:11.503Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.586Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/DNS-and-Route53</loc>
-    <lastmod>2024-06-13T18:54:11.500Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.588Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/Database(RDS)-and-Redshift</loc>
-    <lastmod>2024-06-13T18:54:11.505Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.588Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/Elastic-Load-Balancing,-Amazon-CloudWatch,-and-Auto-Scaling</loc>
-    <lastmod>2024-06-13T18:54:11.502Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.588Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/Index</loc>
-    <lastmod>2024-06-13T18:54:11.496Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.588Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/S3-and-Glacier</loc>
-    <lastmod>2024-06-13T18:54:11.502Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.588Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/SQS,-SNS,-and-SWF</loc>
-    <lastmod>2024-06-13T18:54:11.505Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.589Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/Security-and-IAM</loc>
-    <lastmod>2024-06-13T18:54:11.503Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.589Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/AWS-Associate-Architect-Notes/VPC-(Virtual-Private-Cloud)</loc>
-    <lastmod>2024-06-13T18:54:11.503Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.591Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/FinanceKernal/Data-Collection-And-Database-Choice</loc>
+    <lastmod>2024-06-23T18:21:25.901Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/FinanceKernal/High-Level-Design</loc>
+    <lastmod>2024-06-23T18:13:17.541Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/FinanceKernal/Index</loc>
+    <lastmod>2024-06-23T17:43:26.205Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/FinanceKernal/Introduction</loc>
+    <lastmod>2024-06-23T17:44:27.948Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/FinanceKernal/Low-Level-System-Design</loc>
+    <lastmod>2024-06-23T18:14:14.304Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/FinanceKernal/Trading-System-Requirements</loc>
+    <lastmod>2024-06-23T18:20:05.136Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Low-Level-Desing/Index</loc>
-    <lastmod>2024-06-13T18:54:11.507Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.591Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Low-Level-Desing/Interviers---LeetCode</loc>
-    <lastmod>2024-06-13T18:54:11.507Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.592Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Low-Level-Desing/Interviews---Hotel-Booking-(MMT)</loc>
-    <lastmod>2024-06-13T18:54:11.506Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.592Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Low-Level-Desing/Interviews---ParkingLot-low-Level-Design</loc>
-    <lastmod>2024-06-13T18:54:11.506Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.592Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</loc>
-    <lastmod>2024-06-13T19:10:33.828Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.599Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Battle---NodeJs-vs-Spring-Webflux</loc>
-    <lastmod>2024-06-13T19:11:21.400Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.602Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Bloom-Filter-Implementation-in-Java-</loc>
-    <lastmod>2024-06-13T18:54:11.516Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.602Z</lastmod>
+  </url><url>
+    <loc>https://prakritidev.gihub.io/Tech/Caching</loc>
+    <lastmod>2024-06-14T10:23:45.855Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Cloud-Design-Patterns</loc>
-    <lastmod>2024-06-13T18:54:11.510Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.596Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</loc>
-    <lastmod>2024-06-13T19:11:15.302Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.598Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/GNU-Parallel---Alternative-to-Language-Programming</loc>
-    <lastmod>2024-06-13T18:54:11.509Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.595Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Git-Advanced</loc>
-    <lastmod>2024-06-13T18:54:11.513Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Git-Basics</loc>
-    <lastmod>2024-06-13T18:54:11.509Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.594Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Index</loc>
-    <lastmod>2024-06-13T19:06:48.615Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/JQ-(Basics)---Json-Processing-on-terminal</loc>
-    <lastmod>2024-06-13T18:54:11.516Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Java---Count-Min-Sketch-</loc>
-    <lastmod>2024-06-13T18:54:11.516Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.602Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Java---Multi-Threading-Why-</loc>
-    <lastmod>2024-06-13T18:54:11.512Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.598Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Java---jdk-(open-source-getting-started)</loc>
-    <lastmod>2024-06-13T18:54:11.516Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Java-Streams-(Part-1)</loc>
-    <lastmod>2024-06-13T18:54:11.509Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.594Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/MySQL-8-Write-Ahead-Async-Log-</loc>
-    <lastmod>2024-06-13T19:09:30.539Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.599Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Terminal---Warp-vs-iterm2</loc>
-    <lastmod>2024-06-13T18:54:11.515Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/Transations---2-PC-and-3-PC-</loc>
-    <lastmod>2024-06-13T18:54:11.513Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.599Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/What-is-IPC-</loc>
-    <lastmod>2024-06-13T18:54:11.509Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.595Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/What-is-a-Socket-</loc>
-    <lastmod>2024-06-13T18:54:11.515Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Tech/What-is-gRPC-</loc>
-    <lastmod>2024-06-13T18:54:11.515Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.601Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Understanding-Of-Life/How-to-earn-respect-in-front-of-parents--index</loc>
-    <lastmod>2024-06-13T18:54:11.500Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.595Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Understanding-Of-Life/Index</loc>
-    <lastmod>2024-06-13T18:54:11.499Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.595Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/Understanding-Of-Life/What-is-the-essence-of-this-series</loc>
-    <lastmod>2024-06-13T18:54:11.500Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.595Z</lastmod>
   </url><url>
     <loc>https://prakritidev.gihub.io/</loc>
-    <lastmod>2024-06-13T18:54:11.506Z</lastmod>
+    <lastmod>2024-06-13T19:13:25.579Z</lastmod>
   </url></urlset>

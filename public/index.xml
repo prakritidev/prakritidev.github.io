@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Prakritidev Verma</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>&quot;Data Collection And Database Choice&quot;</title>
+    <link>https://prakritidev.gihub.io/FinanceKernal/Data-Collection-And-Database-Choice</link>
+    <guid>https://prakritidev.gihub.io/FinanceKernal/Data-Collection-And-Database-Choice</guid>
+    <description>Scrapping Process Write a process in golang for downloading data from bse to download history Efficient Data Processing on a Budget - My Journey with File-Based Queues Write a process ...</description>
+    <pubDate>Sun, 23 Jun 2024 18:21:25 GMT</pubDate>
+  </item><item>
+    <title>&quot;Trading System Requirements&quot;</title>
+    <link>https://prakritidev.gihub.io/FinanceKernal/Trading-System-Requirements</link>
+    <guid>https://prakritidev.gihub.io/FinanceKernal/Trading-System-Requirements</guid>
+    <description>FinanceKernel: Trading system requirements. Build a system based on swing trading using software principles and ML software engineering. What is swing trading and what is necessary for build the software ? It’s a small to mid term investment strategy majorly depends upon mean either trend or mean reversal.</description>
+    <pubDate>Sun, 23 Jun 2024 18:20:05 GMT</pubDate>
+  </item><item>
+    <title>&quot;Low Level System Design&quot;</title>
+    <link>https://prakritidev.gihub.io/FinanceKernal/Low-Level-System-Design</link>
+    <guid>https://prakritidev.gihub.io/FinanceKernal/Low-Level-System-Design</guid>
+    <description>FinanceKernel: Low Level Design Q: How to setup the flow ? which thing should we build first ? A: We need to learn about fundamental stuff and which technical indicators works for eveyone ...</description>
+    <pubDate>Sun, 23 Jun 2024 18:14:14 GMT</pubDate>
+  </item><item>
+    <title>&quot;High Level Design&quot;</title>
+    <link>https://prakritidev.gihub.io/FinanceKernal/High-Level-Design</link>
+    <guid>https://prakritidev.gihub.io/FinanceKernal/High-Level-Design</guid>
+    <description>FinanceKernel: High level Design Q: We Have NSE and BSE, over 4000+ listed stocks, how to choose which stocks to select for the portfolio. A: We have 3 Types, Large, mid, small.</description>
+    <pubDate>Sun, 23 Jun 2024 18:13:17 GMT</pubDate>
+  </item><item>
+    <title>&quot;Introduction&quot;</title>
+    <link>https://prakritidev.gihub.io/FinanceKernal/Introduction</link>
+    <guid>https://prakritidev.gihub.io/FinanceKernal/Introduction</guid>
+    <description>Project Overview: Building a System for Consistent Daily Profits The goal of this project is to explore the feasibility of building a system that can consistently achieve an average ...</description>
+    <pubDate>Sun, 23 Jun 2024 17:44:27 GMT</pubDate>
+  </item><item>
+    <title>Index</title>
+    <link>https://prakritidev.gihub.io/FinanceKernal/Index</link>
+    <guid>https://prakritidev.gihub.io/FinanceKernal/Index</guid>
+    <description></description>
+    <pubDate>Sun, 23 Jun 2024 17:43:26 GMT</pubDate>
+  </item><item>
+    <title>&quot;Caching&quot;</title>
+    <link>https://prakritidev.gihub.io/Tech/Caching</link>
+    <guid>https://prakritidev.gihub.io/Tech/Caching</guid>
+    <description>Computer L1 Smallest Cache resides inside CPU # kbs L2 On CPU # MBs L3 Slowest of them all, shared by multiple CPUs cores .</description>
+    <pubDate>Fri, 14 Jun 2024 10:23:45 GMT</pubDate>
+  </item><item>
     <title>Battle - NodeJs vs Spring Webflux</title>
     <link>https://prakritidev.gihub.io/Tech/Battle---NodeJs-vs-Spring-Webflux</link>
     <guid>https://prakritidev.gihub.io/Tech/Battle---NodeJs-vs-Spring-Webflux</guid>
     <description>Out of frustration and anger I decided to do compare these two framework I don’t have anger issue but after having conversation with developers and reading on blogs etc ...</description>
-    <pubDate>Thu, 13 Jun 2024 19:11:21 GMT</pubDate>
-  </item><item>
-    <title>Efficient Data Processing on a Budget - My Journey with File-Based Queues</title>
-    <link>https://prakritidev.gihub.io/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</link>
-    <guid>https://prakritidev.gihub.io/Tech/Efficient-Data-Processing-on-a-Budget---My-Journey-with-File-Based-Queues</guid>
-    <description>I want to share my experience with managing background tasks in a Python application, especially in the context of financial data processing. This isn’t just about choosing between file-based queues and Celery, but also about making decisions under hardware constraints and specific industry requirements.</description>
-    <pubDate>Thu, 13 Jun 2024 19:11:15 GMT</pubDate>
-  </item><item>
-    <title>A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue</title>
-    <link>https://prakritidev.gihub.io/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</link>
-    <guid>https://prakritidev.gihub.io/Tech/A-Personal-Tale-of-Data-Transformation---The-Simple-Genius-of-jq,-GNU-Parallel,-and-a-Task-Queue</guid>
-    <description>As a lead backend engineer and an avid finance enthusiast, my journey has blended advanced programming with machine learning insights in the finance sector ...</description>
-    <pubDate>Thu, 13 Jun 2024 19:10:33 GMT</pubDate>
-  </item><item>
-    <title>MySQL 8 Write Ahead Async Log</title>
-    <link>https://prakritidev.gihub.io/Tech/MySQL-8-Write-Ahead-Async-Log-</link>
-    <guid>https://prakritidev.gihub.io/Tech/MySQL-8-Write-Ahead-Async-Log-</guid>
-    <description></description>
-    <pubDate>Thu, 13 Jun 2024 19:09:30 GMT</pubDate>
-  </item><item>
-    <title>Index</title>
-    <link>https://prakritidev.gihub.io/Tech/Index</link>
-    <guid>https://prakritidev.gihub.io/Tech/Index</guid>
-    <description></description>
-    <pubDate>Thu, 13 Jun 2024 19:06:48 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 19:13:25 GMT</pubDate>
   </item><item>
     <title>&quot;Bloom Filter Implementation in Java &quot;</title>
     <link>https://prakritidev.gihub.io/Tech/Bloom-Filter-Implementation-in-Java-</link>
     <guid>https://prakritidev.gihub.io/Tech/Bloom-Filter-Implementation-in-Java-</guid>
     <description></description>
-    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
-  </item><item>
-    <title>&quot;JQ (Basics) - Json Processing on terminal&quot;</title>
-    <link>https://prakritidev.gihub.io/Tech/JQ-(Basics)---Json-Processing-on-terminal</link>
-    <guid>https://prakritidev.gihub.io/Tech/JQ-(Basics)---Json-Processing-on-terminal</guid>
-    <description>What is jq ? Why this is better than python or js ?.</description>
-    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 19:13:25 GMT</pubDate>
   </item><item>
     <title>&quot;Java - Count Min Sketch &quot;</title>
     <link>https://prakritidev.gihub.io/Tech/Java---Count-Min-Sketch-</link>
     <guid>https://prakritidev.gihub.io/Tech/Java---Count-Min-Sketch-</guid>
     <description></description>
-    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
-  </item><item>
-    <title>&quot;Java - jdk (open source getting started)&quot;</title>
-    <link>https://prakritidev.gihub.io/Tech/Java---jdk-(open-source-getting-started)</link>
-    <guid>https://prakritidev.gihub.io/Tech/Java---jdk-(open-source-getting-started)</guid>
-    <description></description>
-    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
-  </item><item>
-    <title>&quot;Terminal - Warp vs iterm2&quot;</title>
-    <link>https://prakritidev.gihub.io/Tech/Terminal---Warp-vs-iterm2</link>
-    <guid>https://prakritidev.gihub.io/Tech/Terminal---Warp-vs-iterm2</guid>
-    <description></description>
-    <pubDate>Thu, 13 Jun 2024 18:54:11 GMT</pubDate>
+    <pubDate>Thu, 13 Jun 2024 19:13:25 GMT</pubDate>
   </item>
     </channel>
   </rss>

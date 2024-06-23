@@ -4,18 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ce306e0937ac8d",
+        "id": "e2ee4df92294ec96",
         "type": "tabs",
         "children": [
           {
-            "id": "51847652b494601b",
+            "id": "1383a868ea34dca4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/FinanceKernal/Data Collection And Database Choice.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/FinanceKernal/Data Collection And Database Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/FinanceKernal/Data Collection And Database Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,14 +134,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/FinanceKernal/Data Collection And Database Choice.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +157,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51847652b494601b",
+  "active": "1383a868ea34dca4",
   "lastOpenFiles": [
     "public/404.html",
     "public/static/og-image.png",
@@ -158,35 +168,35 @@
     "public/sitemap.xml",
     "public/tags/index.html",
     "public/tags/negotiation.html",
-    "public/tags/respect.html",
-    "public/tags/parents.html",
-    "public/tags/philosophy.html",
     "public/tags/life.html",
-    "content/Tech/Bloom Filter Implementation in Java .md",
-    "content/Tech/Java - Count Min Sketch .md",
-    "content/Tech/Battle - NodeJs vs Spring Webflux.md",
-    "content/Tech/Java - jdk (open source getting started).md",
-    "content/Tech/JQ (Basics) - Json Processing on terminal.md",
-    "content/Tech/What is a Socket ?.md",
-    "content/Tech/Terminal - Warp vs iterm2.md",
+    "public/tags/iterm2.html",
+    "public/tags/WAL.html",
+    "public/tags/MySQL.html",
+    "content/FinanceKernal/Trading System Requirements.md",
+    "content/FinanceKernal/Low Level System Design.md",
+    "content/FinanceKernal/High Level Design.md",
+    "content/FinanceKernal/Introduction.md",
     "content/Tech/What is gRPC? .md",
-    "content/Tech/Index.md",
-    "content/Tech/Git Advanced.md",
-    "content/Tech/A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue.md",
-    "content/Tech/Transations - 2 PC and 3 PC .md",
-    "content/Tech/MySQL 8 Write Ahead Async Log .md",
-    "content/Tech/Go - Defer.md",
-    "content/Tech/Java - Multi Threading Why ?.md",
+    "content/FinanceKernal/Data Collection And Database Choice.md",
     "content/Tech/Efficient Data Processing on a Budget - My Journey with File-Based Queues.md",
+    "content/FinanceKernal/About .md",
+    "content/FinanceKernal/Index.md",
+    "content/Tech/MySQL 8 Write Ahead Async Log .md",
     "content/Tech/Cloud Design Patterns.md",
-    "content/Tech/GNU Parallel - Alternative to Language Programming.md",
+    "content/Tech/Caching.md",
+    "content/Tech/Battle - NodeJs vs Spring Webflux.md",
+    "content/index.md",
+    "content/AWS Associate Architect Notes/2018 AWS GuideLines.md",
+    "node_modules/katex/node_modules/commander/Readme.md",
+    "docs/build.md",
+    "docs/authoring content.md",
+    "docs/index.md",
+    "content/Tech/JQ (Basics) - Json Processing on terminal.md",
+    "node_modules/requires-port/README.md",
+    "docs/configuration.md",
+    "content/Tech/What is a Socket ?.md",
     "content/Tech/What is IPC ?.md",
-    "content/Understanding Of Life/What is the essence of this series?.md",
-    "content/Understanding Of Life/Index.md",
-    "content/Understanding Of Life/How to earn respect in front of parents ? index.md",
-    "content/Tech/Java Streams (Part 1).md",
-    "content/Tech/Git Basics.md",
-    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
+    "content/Tech/Transations - 2 PC and 3 PC .md",
     "Untitled.canvas"
   ]
 }

@@ -24,6 +24,7 @@ longform:
     - Battle - NodeJs vs Spring Webflux
     - Efficient Data Processing on a Budget - My Journey with File-Based Queues
     - A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue
+    - Caching
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---

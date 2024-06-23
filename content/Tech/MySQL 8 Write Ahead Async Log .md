@@ -4,4 +4,5 @@ draft:
 tags:
   - MySQL
   - WAL
+  - Async
 ---

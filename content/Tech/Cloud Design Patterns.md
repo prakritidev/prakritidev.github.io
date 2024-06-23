@@ -6,7 +6,6 @@ tags:
   - autoscaling
   - DesignPrinciples
   - distributed
-  - basics
 ---
 
 ## **Cloud Design Patterns**
