@@ -7,6 +7,7 @@ tags:
   - OOPS
   - DesignPrinciples
   - component
+  - collegestudents
 ---
 **Parking Lot Design: Navigating the Tech Interview Maze**
 
@@ -26,14 +27,10 @@ The issue here is that newcomers often end up memorizing solutions to specific p
 
 In interviews, companies may require diagrams or code. We'll explore creating both without overusing design patterns and emphasize crucial interview points.
 
-  
+
+# **Requirement Gathering.** 
 
   
-
-**Requirement Gathering.** 
-
-  
-
 One of the major points in both LLD and HLD phases. If you can master this art, you can navigate a lot of projects in your company as well. 
 
   
@@ -43,8 +40,6 @@ One of the major points in both LLD and HLD phases. If you can master this art, 
   
 
 I'll avoid sticking to the typical interview pattern and help us grasp the essence of it. This phase is crucial from a developer's viewpoint as it demonstrates the ability to think beyond coding—a key quality sought after by top companies in their developers.
-
-  
 
   
 
@@ -66,7 +61,7 @@ These points represent the foundation of software development. Interviews may em
 
   
 
-**Functional Requirements**
+# **Functional Requirements**
 
   
 
@@ -227,3 +222,5 @@ Certainly! Let's walk through the process of identifying domain models, determin
   
 
 This step-by-step process helps you systematically define the domain models, classes, attributes, and methods for your parking lot system, ensuring clarity and alignment with the project's goals.
+
+# Java Code 

@@ -7,3 +7,4 @@ tags:
   - functionalprograming
   - parallelProcessing
 ---
+Java Streams is shi

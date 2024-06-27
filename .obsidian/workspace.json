@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FinanceKernal/Data Collection And Database Choice.md",
+                "file": "content/Tech/Java - Collections (Basics).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/FinanceKernal/Data Collection And Database Choice.md",
+                "file": "content/Tech/Java - Collections (Basics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/FinanceKernal/Data Collection And Database Choice.md",
+                "file": "content/Tech/Java - Collections (Basics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,16 +135,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/FinanceKernal/Data Collection And Database Choice.md"
+                "file": "content/Tech/Java - Collections (Basics).md"
               }
             }
+          },
+          {
+            "id": "67684512adc86694",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,11 +162,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1383a868ea34dca4",
   "lastOpenFiles": [
+    "content/Tech/Java Streams (Part 1).md",
+    "content/Tech/Java - Collections (Basics).md",
+    "content/Tech/Java - jdk (open source getting started).md",
+    "content/Tech/Java - Multi Threading Why ?.md",
+    "content/Negotiations (Interview or life)/Index.md",
+    "content/Negotiations (Interview or life)/Interviews - How to fuckup the first round of interview but still end up getting into second round.md",
+    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
+    "content/Negotiations (Interview or life)",
+    "content/FinanceKernal/Swing Trading - 02.md",
+    "content/FinanceKernal/Swing Trading - 01.md",
+    "content/FinanceKernal/Data Collection And Database Choice.md",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
@@ -170,14 +190,11 @@
     "public/tags/negotiation.html",
     "public/tags/life.html",
     "public/tags/iterm2.html",
-    "public/tags/WAL.html",
-    "public/tags/MySQL.html",
     "content/FinanceKernal/Trading System Requirements.md",
     "content/FinanceKernal/Low Level System Design.md",
     "content/FinanceKernal/High Level Design.md",
     "content/FinanceKernal/Introduction.md",
     "content/Tech/What is gRPC? .md",
-    "content/FinanceKernal/Data Collection And Database Choice.md",
     "content/Tech/Efficient Data Processing on a Budget - My Journey with File-Based Queues.md",
     "content/FinanceKernal/About .md",
     "content/FinanceKernal/Index.md",
@@ -189,14 +206,6 @@
     "content/AWS Associate Architect Notes/2018 AWS GuideLines.md",
     "node_modules/katex/node_modules/commander/Readme.md",
     "docs/build.md",
-    "docs/authoring content.md",
-    "docs/index.md",
-    "content/Tech/JQ (Basics) - Json Processing on terminal.md",
-    "node_modules/requires-port/README.md",
-    "docs/configuration.md",
-    "content/Tech/What is a Socket ?.md",
-    "content/Tech/What is IPC ?.md",
-    "content/Tech/Transations - 2 PC and 3 PC .md",
     "Untitled.canvas"
   ]
 }

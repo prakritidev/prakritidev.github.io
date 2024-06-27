@@ -1,5 +1,10 @@
 [
   "highlightr-plugin",
   "longform",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-linter",
+  "obsidian-mind-map"
 ]

@@ -10,6 +10,8 @@ longform:
     - Low Level System Design
     - Trading System Requirements
     - Data Collection And Database Choice
+    - Swing Trading - 01
+    - Swing Trading - 02
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---
