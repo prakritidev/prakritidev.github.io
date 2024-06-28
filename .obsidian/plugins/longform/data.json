@@ -46,16 +46,8 @@
             "What is IPC ?": 0,
             "What is a Socket ?": 0,
             "Terminal - Warp vs iterm2": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Cloud Design Patterns": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
             "Git Advanced": 0,
-            "Git Basics": 0,
             "Go - Defer": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Caching": 0,
             "Java - Collections (Basics)": 242
           }
         },
@@ -63,10 +55,8 @@
           "total": 0,
           "scenes": {
             "Introduction": 0,
-            "High Level Design": 0,
             "Low Level System Design": 0,
             "Trading System Requirements": 0,
-            "Data Collection And Database Choice": 0,
             "Swing Trading - 01": 0,
             "Swing Trading - 02": 0
           }

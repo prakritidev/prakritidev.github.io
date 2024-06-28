@@ -15,16 +15,8 @@ longform:
     - What is IPC ?
     - What is a Socket ?
     - Terminal - Warp vs iterm2
-    - "Bloom Filter Implementation in Java "
-    - Cloud Design Patterns
-    - GNU Parallel - Alternative to Language Programming
     - Git Advanced
-    - Git Basics
     - Go - Defer
-    - Battle - NodeJs vs Spring Webflux
-    - Efficient Data Processing on a Budget - My Journey with File-Based Queues
-    - A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue
-    - Caching
     - Java - Collections (Basics)
   sceneTemplate: templates/Readme.md
   ignoredFiles: []

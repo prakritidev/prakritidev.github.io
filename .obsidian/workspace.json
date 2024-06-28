@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/Java - Collections (Basics).md",
+                "file": "content/Tech/Java Streams (Part 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/Java - Collections (Basics).md",
+                "file": "content/Tech/Java Streams (Part 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/Java - Collections (Basics).md",
+                "file": "content/Tech/Java Streams (Part 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/Java - Collections (Basics).md"
+                "file": "content/Tech/Java Streams (Part 1).md"
               }
             }
           },
@@ -168,44 +168,44 @@
   },
   "active": "1383a868ea34dca4",
   "lastOpenFiles": [
-    "content/Tech/Java Streams (Part 1).md",
-    "content/Tech/Java - Collections (Basics).md",
-    "content/Tech/Java - jdk (open source getting started).md",
-    "content/Tech/Java - Multi Threading Why ?.md",
-    "content/Negotiations (Interview or life)/Index.md",
     "content/Negotiations (Interview or life)/Interviews - How to fuckup the first round of interview but still end up getting into second round.md",
-    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
+    "content/Negotiations (Interview or life)/Index.md",
     "content/Negotiations (Interview or life)",
-    "content/FinanceKernal/Swing Trading - 02.md",
-    "content/FinanceKernal/Swing Trading - 01.md",
-    "content/FinanceKernal/Data Collection And Database Choice.md",
+    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
+    "content/Low Level Desing/Interviews - Hotel Booking (MMT).md",
+    "content/Low Level Desing/Interviers - LeetCode.md",
+    "content/Low Level Desing/Index.md",
+    "content/Low Level Desing",
+    "content/index.md",
+    "content/AWS Associate Architect Notes/VPC (Virtual Private Cloud).md",
+    "content/AWS Associate Architect Notes/Security and IAM.md",
+    "content/AWS Associate Architect Notes/SQS, SNS, and SWF.md",
+    "content/AWS Associate Architect Notes/S3 and Glacier.md",
+    "content/AWS Associate Architect Notes/Index.md",
+    "content/AWS Associate Architect Notes/Elastic Load Balancing, Amazon CloudWatch, and Auto Scaling.md",
+    "content/AWS Associate Architect Notes/Database(RDS) and Redshift.md",
+    "content/AWS Associate Architect Notes/DNS and Route53.md",
+    "content/AWS Associate Architect Notes/Amazon ElastiCache.md",
+    "content/AWS Associate Architect Notes/AWS - EC2 AND EBS.md",
+    "content/AWS Associate Architect Notes/2018 AWS GuideLines.md",
+    "content/AWS Associate Architect Notes",
+    "content/Understanding Of Life/What is the essence of this series?.md",
+    "content/Understanding Of Life/Index.md",
+    "content/Understanding Of Life/How to earn respect in front of parents ? index.md",
+    "content/Understanding Of Life",
+    "content/Tech/Java - Collections (Basics).md",
+    "content/Tech/What is gRPC? .md",
+    "content/Tech/What is a Socket ?.md",
+    "content/Tech/What is IPC ?.md",
+    "content/Tech/Transations - 2 PC and 3 PC .md",
+    "content/Tech",
+    "content/FinanceKernal",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
     "public/static/contentIndex.json",
     "public/static",
     "public/index.xml",
-    "public/sitemap.xml",
-    "public/tags/index.html",
-    "public/tags/negotiation.html",
-    "public/tags/life.html",
-    "public/tags/iterm2.html",
-    "content/FinanceKernal/Trading System Requirements.md",
-    "content/FinanceKernal/Low Level System Design.md",
-    "content/FinanceKernal/High Level Design.md",
-    "content/FinanceKernal/Introduction.md",
-    "content/Tech/What is gRPC? .md",
-    "content/Tech/Efficient Data Processing on a Budget - My Journey with File-Based Queues.md",
-    "content/FinanceKernal/About .md",
-    "content/FinanceKernal/Index.md",
-    "content/Tech/MySQL 8 Write Ahead Async Log .md",
-    "content/Tech/Cloud Design Patterns.md",
-    "content/Tech/Caching.md",
-    "content/Tech/Battle - NodeJs vs Spring Webflux.md",
-    "content/index.md",
-    "content/AWS Associate Architect Notes/2018 AWS GuideLines.md",
-    "node_modules/katex/node_modules/commander/Readme.md",
-    "docs/build.md",
     "Untitled.canvas"
   ]
 }
