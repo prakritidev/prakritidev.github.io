@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/Java Streams (Part 1).md",
+                "file": "content/Tech/Java - Lambda.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -49,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/Java Streams (Part 1).md",
+                "file": "content/Tech/Java - Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/Java Streams (Part 1).md",
+                "file": "content/Tech/Java - Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/Java Streams (Part 1).md"
+                "file": "content/Tech/Java - Lambda.md"
               }
             }
           },
@@ -168,6 +169,11 @@
   },
   "active": "1383a868ea34dca4",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "content/Tech/Java - Lambda.md",
+    "content/Tech/Java - Collections (Basics).md",
+    "content/Tech/Java Streams (Part 1).md",
     "content/Negotiations (Interview or life)/Interviews - How to fuckup the first round of interview but still end up getting into second round.md",
     "content/Negotiations (Interview or life)/Index.md",
     "content/Negotiations (Interview or life)",
@@ -193,11 +199,7 @@
     "content/Understanding Of Life/Index.md",
     "content/Understanding Of Life/How to earn respect in front of parents ? index.md",
     "content/Understanding Of Life",
-    "content/Tech/Java - Collections (Basics).md",
     "content/Tech/What is gRPC? .md",
-    "content/Tech/What is a Socket ?.md",
-    "content/Tech/What is IPC ?.md",
-    "content/Tech/Transations - 2 PC and 3 PC .md",
     "content/Tech",
     "content/FinanceKernal",
     "public/404.html",
@@ -205,7 +207,6 @@
     "public/static/icon.png",
     "public/static/contentIndex.json",
     "public/static",
-    "public/index.xml",
-    "Untitled.canvas"
+    "public/index.xml"
   ]
 }
