@@ -15,26 +15,12 @@
             "MySQL 8 Write Ahead Async Log ": 0,
             "Java Streams (Part 1)": 0,
             "Java - Multi Threading Why ?": 0,
-            "Java - jdk (open source getting started)": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Count Min Sketch ": 0,
             "Transations - 2 PC and 3 PC ": 0,
             "What is gRPC? ": 0,
             "What is IPC ?": 0,
             "What is a Socket ?": 0,
             "Terminal - Warp vs iterm2": 0,
-            "Java - Collections (Basics)": 0,
-            "Git Basics": 0,
-            "Java - Lambda": 967,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Go - Defer": 0
+            "Java - Lambda": 967
           }
         },
         "content/Understanding Of Life/Index.md": {
@@ -60,8 +46,6 @@
             "Trading System Requirements": 0,
             "Swing Trading - 01": 0,
             "Swing Trading - 02": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
             "Stock Selection Algorithm": 0
           }
         },
