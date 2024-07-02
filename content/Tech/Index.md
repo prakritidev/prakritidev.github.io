@@ -18,6 +18,15 @@ longform:
     - Java - Collections (Basics)
     - Git Basics
     - Java - Lambda
+    - A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue
+    - Battle - NodeJs vs Spring Webflux
+    - "Bloom Filter Implementation in Java "
+    - Caching
+    - Cloud Design Patterns
+    - Efficient Data Processing on a Budget - My Journey with File-Based Queues
+    - GNU Parallel - Alternative to Language Programming
+    - Git Advanced
+    - Go - Defer
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---

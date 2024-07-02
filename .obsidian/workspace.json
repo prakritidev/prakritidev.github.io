@@ -11,13 +11,8 @@
             "id": "1383a868ea34dca4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Tech/Java - Lambda.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -75,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/Java - Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/Java - Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Tech/Java - Lambda.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +160,21 @@
   },
   "active": "1383a868ea34dca4",
   "lastOpenFiles": [
+    "content/Tech/Java - Lambda.md",
+    "content/Tech/MySQL 8 Write Ahead Async Log .md",
+    "content/Tech/Java - jdk (open source getting started).md",
+    "content/index.md",
+    "README.md",
+    "content/Low Level Desing/Index.md",
+    "content/FinanceKernal/Stock Selection Algorithm.md",
+    "content/FinanceKernal/Data Collection And Database Choice.md",
+    "content/FinanceKernal/Trading System Requirements.md",
+    "content/FinanceKernal/Low Level System Design.md",
+    "content/FinanceKernal/Swing Trading - 01.md",
+    "content/Low Level Desing/Interviews - Hotel Booking (MMT).md",
+    "content/Low Level Desing/Interviers - LeetCode.md",
+    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
+    "node_modules/yargs-parser/CHANGELOG.md",
     "content/Negotiations (Interview or life)/Index.md",
     "content/Negotiations (Interview or life)/Interviews - How to fuckup the first round of interview but still end up getting into second round.md",
     "content/Tech/Bloom Filter Implementation in Java .md",
@@ -180,21 +186,6 @@
     "content/Tech/Caching.md",
     "content/Tech/Cloud Design Patterns.md",
     "content/Tech/GNU Parallel - Alternative to Language Programming.md",
-    "content/Tech/Git Basics.md",
-    "content/Low Level Desing/Index.md",
-    "content/Low Level Desing/Interviers - LeetCode.md",
-    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
-    "content/Low Level Desing/Interviews - Hotel Booking (MMT).md",
-    "content/FinanceKernal/Trading System Requirements.md",
-    "content/FinanceKernal/Swing Trading - 01.md",
-    "content/FinanceKernal/Low Level System Design.md",
-    "content/FinanceKernal/Index.md",
-    "content/FinanceKernal/Introduction.md",
-    "content/FinanceKernal/High Level Design.md",
-    "content/FinanceKernal/Swing Trading - 02.md",
-    "content/FinanceKernal/Data Collection And Database Choice.md",
-    "content/index.md",
-    "content/AWS Associate Architect Notes/Database(RDS) and Redshift.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "content/Negotiations (Interview or life)",

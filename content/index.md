@@ -36,3 +36,27 @@ If you're as excited about tech as I am, you're in the right place. Whether you'
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/prakritidevverma/) and check out my projects on [GitHub](https://github.com/prakritidev).
 
 Stick around, and let's geek out over the amazing possibilities of technology!
+
+# Resume (Because I forget things)
+
+Due to exposure of many things, I am generally confused what am I and I have 3 different resumes tailored based on requirements. However, sometimes we all need to have a view of what exactly do we really know. Below is the exhaustive deep dive of my work experience and work exposure over the years working in the tech. 
+
+
+#### 2017 (Machine Learning Era)
+
+Graduated fresh out of college, aspiring ML engineer. 
+
+Worked @ParallelDots as an intern and used to work image processing stuff.  Worked on highly imbalanced dataset classification promlem, pyTorch, VGG etc. 
+
+Worked @GOEVENTZ (Not anymore), worked on recommendation systems, cold start and content based algoithms.  
+
+#### 2018 (Backend Development, DevOps Era)
+
+##### ResearchKernel 
+
+##### Multi Tenant Cloud Architecture. 
+
+#### 2021 (Finance, Backend, Machine Learning, DevOps Era )
+
+
+
