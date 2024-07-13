@@ -6,11 +6,40 @@
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2024-07-02T09:44:01.301Z",
-      "total": 967,
+      "start": "2024-07-13T07:07:09.454Z",
+      "total": 33,
       "drafts": {
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
         "content/Tech/Index.md": {
-          "total": 967,
+          "total": 33,
           "scenes": {
             "MySQL 8 Write Ahead Async Log ": 0,
             "Java Streams (Part 1)": 0,
@@ -20,7 +49,379 @@
             "What is IPC ?": 0,
             "What is a Socket ?": 0,
             "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda": 967
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 33
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Low Level System Design": 0,
+            "Trading System Requirements": 0,
+            "Swing Trading - 01": 0,
+            "Swing Trading - 02": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-07-12T17:58:32.770Z",
+      "total": 774,
+      "drafts": {
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 774,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 86,
+            "NeoVim - Init Setup(Part 2)": 688
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Low Level System Design": 0,
+            "Trading System Requirements": 0,
+            "Swing Trading - 01": 0,
+            "Swing Trading - 02": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-07-07T09:07:23.307Z",
+      "total": 112,
+      "drafts": {
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 112,
+          "scenes": {
+            "Introduction": 0,
+            "Low Level System Design": 0,
+            "Trading System Requirements": 0,
+            "Swing Trading - 01": 0,
+            "Swing Trading - 02": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 112
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-07-04T18:19:42.339Z",
+      "total": 0,
+      "drafts": {
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Low Level System Design": 0,
+            "Trading System Requirements": 0,
+            "Swing Trading - 01": 0,
+            "Swing Trading - 02": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-07-03T16:22:40.724Z",
+      "total": 1116,
+      "drafts": {
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 1116,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 1116,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Low Level System Design": 0,
+            "Trading System Requirements": 0,
+            "Swing Trading - 01": 0,
+            "Swing Trading - 02": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-07-02T09:44:01.301Z",
+      "total": 9661,
+      "drafts": {
+        "content/Tech/Index.md": {
+          "total": 8905,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "Java - Multi Threading Why ?": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda": 967,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 2524,
+            "Battle - NodeJs vs Spring Webflux": 2948,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 56,
+            "Cloud Design Patterns": 342,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 1148,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 416,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 22,
+            "Java - Collections (Basics)": 482,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0
           }
         },
         "content/Understanding Of Life/Index.md": {
@@ -39,14 +440,16 @@
           }
         },
         "content/FinanceKernal/Index.md": {
-          "total": 0,
+          "total": 756,
           "scenes": {
             "Introduction": 0,
             "Low Level System Design": 0,
             "Trading System Requirements": 0,
             "Swing Trading - 01": 0,
             "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 123,
+            "High Level Design": 633
           }
         },
         "content/Low Level Desing/Index.md": {

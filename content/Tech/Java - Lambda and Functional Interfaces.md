@@ -1,5 +1,5 @@
 ---
-title: '"Java - Lambda"'
+title: '"Java - Lambda and Functional Interfaces"'
 draft: 
 tags:
   - java
@@ -75,6 +75,8 @@ This is used for modify data, it does not return anything. Good for things like 
 Consumer<String> printConsumer = str -> System.out.println("Print: " + str);
 
 Consumer<String> lengthConsumer = str -> System.out.println("Length: " + str.length());
+Consumer<String> combinedConsumer = printConsumer.andThen(lengthConsumer);
+
 
 combinedConsumer.accept("Hello, World!");
 
