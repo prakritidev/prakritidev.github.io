@@ -3,6 +3,7 @@ title: '"What is a Socket ?"'
 draft: 
 tags:
   - socket
+  - tcp
 ---
 ### What is a Socket?
 

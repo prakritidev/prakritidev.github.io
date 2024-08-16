@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-08-15T19:58:40.216Z",
-      "total": 4091,
+      "total": 5980,
       "drafts": {
         "content/Negotiations (Interview or life)/Index.md": {
           "total": 0,
@@ -16,7 +16,7 @@
           }
         },
         "content/Tech/Index.md": {
-          "total": 4091,
+          "total": 5980,
           "scenes": {
             "MySQL 8 Write Ahead Async Log ": 0,
             "Java Streams (Part 1)": 0,
@@ -34,7 +34,7 @@
             "Cloud Design Patterns": 0,
             "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
             "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
+            "Git Advanced": 1889,
             "Git Basics": 0,
             "Go - Defer": 0,
             "JQ (Basics) - Json Processing on terminal": 0,
