@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/NeoVim - Init Setup(Part 2).md",
+                "file": "content/Tech/Recursive DNS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/NeoVim - Init Setup(Part 2).md",
+                "file": "content/Tech/Recursive DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/NeoVim - Init Setup(Part 2).md",
+                "file": "content/Tech/Recursive DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/NeoVim - Init Setup(Part 2).md"
+                "file": "content/Tech/Recursive DNS.md"
               }
             }
           },
@@ -170,45 +170,45 @@
   },
   "active": "fa78973efbfa7a17",
   "lastOpenFiles": [
-    "content/Tech/NeoVim - Build from source (Part 1).md",
+    "content/Tech/How HTTP works over TCP ?.md",
+    "content/Tech/What happens when you make a request to a website like “google.com” using a browser or a curl command ?.md",
+    "content/Tech/Recursive DNS.md",
+    "content/Tech/What is gRPC? .md",
     "content/Tech/NeoVim - Init Setup(Part 2).md",
-    "content/FinanceKernal/Derivative .md",
-    "content/Negotiations (Interview or life)/Interviews - How to fuckup the first round of interview but still end up getting into second round.md",
-    "content/Tech/Java - Multi Threading Why ?.md",
-    "content/Tech/Java - Lambda and Functional Interfaces.md",
-    "content/Tech/Java - Collections (Basics).md",
-    "content/Tech/Java - Count Min Sketch .md",
+    "content/Tech/NeoVim - Build from source (Part 1).md",
     "content/Tech/Java - jdk (open source getting started).md",
-    "content/Tech/Java Streams (Part 1).md",
-    "content/Negotiations (Interview or life)/Index.md",
-    "content/Negotiations (Interview or life)",
-    "content/Tech/Bloom Filter Implementation in Java .md",
-    "content/Tech/Battle - NodeJs vs Spring Webflux.md",
-    "content/Tech/JQ (Basics) - Json Processing on terminal.md",
+    "content/Tech/Java - Count Min Sketch .md",
+    "content/Tech/Java - Collections (Basics).md",
     "content/Tech/Git Advanced.md",
-    "content/Tech/A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue.md",
+    "content/Tech/Transations - 2 PC and 3 PC .md",
+    "content/Tech/MultiThreading.md",
+    "content/Tech/Java Streams (Part 1).md",
+    "content/Tech/MySQL 8 Write Ahead Async Log .md",
+    "content/Tech/What is a Socket ?.md",
+    "content/Tech/Terminal - Warp vs iterm2.md",
+    "content/Tech/What is IPC ?.md",
+    "content/Understanding Of Life/What is the essence of this series?.md",
+    "content/Understanding Of Life/Index.md",
+    "content/Understanding Of Life/How to earn respect in front of parents ? index.md",
+    "content/Tech/Java - Lambda and Functional Interfaces.md",
+    "content/Tech/JQ (Basics) - Json Processing on terminal.md",
+    "content/Tech/Index.md",
     "content/Tech/Go - Defer.md",
-    "content/Tech/Efficient Data Processing on a Budget - My Journey with File-Based Queues.md",
-    "content/Tech/Caching.md",
-    "content/Tech/Cloud Design Patterns.md",
-    "content/Tech/GNU Parallel - Alternative to Language Programming.md",
     "content/Tech/Git Basics.md",
-    "content/Low Level Desing/Interviews - ParkingLot low Level Design.md",
-    "content/Low Level Desing/Interviews - Hotel Booking (MMT).md",
-    "content/Low Level Desing/Interviers - LeetCode.md",
-    "content/Low Level Desing/Index.md",
-    "content/Low Level Desing",
-    "content/AWS Associate Architect Notes",
-    "content/FinanceKernal",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "content/Tech/GNU Parallel - Alternative to Language Programming.md",
     "content/Understanding Of Life",
     "content/Tech",
+    "content/Negotiations (Interview or life)",
+    "content/Low Level Desing",
+    "content/FinanceKernal",
+    "content/AWS Associate Architect Notes",
+    "content",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "public/404.html",
     "public/static/og-image.png",
     "public/static/icon.png",
     "public/static/contentIndex.json",
-    "public/static",
-    "public/index.xml"
+    "public/static"
   ]
 }

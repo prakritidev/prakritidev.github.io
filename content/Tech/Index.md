@@ -6,7 +6,7 @@ longform:
   scenes:
     - "MySQL 8 Write Ahead Async Log "
     - Java Streams (Part 1)
-    - Java - Multi Threading Why ?
+    - MultiThreading
     - "Transations - 2 PC and 3 PC "
     - "What is gRPC? "
     - What is IPC ?
@@ -29,6 +29,9 @@ longform:
     - Java - jdk (open source getting started)
     - NeoVim - Build from source (Part 1)
     - NeoVim - Init Setup(Part 2)
+    - What happens when you make a request to a website like “google.com” using a browser or a curl command ?
+    - Recursive DNS
+    - How HTTP works over TCP ?
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---
