@@ -66,7 +66,7 @@ done
 exec 3<&-
 exec 3>&-
 ```
-
+###### For Deep Dive [[What is a Socket ?]]
 ##### Three way HandShake: 
 **SYN (Synchronize)**: Your computer sends a SYN packet to the server’s IP address, specifying a random sequence number and requesting a connection on a specific port (e.g., port 80 for HTTP or 443 for HTTPS).
 

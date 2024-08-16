@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-08-15T19:58:40.216Z",
-      "total": 3412,
+      "total": 4091,
       "drafts": {
         "content/Negotiations (Interview or life)/Index.md": {
           "total": 0,
@@ -16,7 +16,7 @@
           }
         },
         "content/Tech/Index.md": {
-          "total": 3412,
+          "total": 4091,
           "scenes": {
             "MySQL 8 Write Ahead Async Log ": 0,
             "Java Streams (Part 1)": 0,
@@ -24,7 +24,7 @@
             "Transations - 2 PC and 3 PC ": 0,
             "What is gRPC? ": 0,
             "What is IPC ?": 0,
-            "What is a Socket ?": 0,
+            "What is a Socket ?": 672,
             "Terminal - Warp vs iterm2": 0,
             "Java - Lambda and Functional Interfaces": 0,
             "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
@@ -43,7 +43,7 @@
             "Java - jdk (open source getting started)": 0,
             "NeoVim - Build from source (Part 1)": 0,
             "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 1187,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 1194,
             "Recursive DNS": 873,
             "How HTTP works over TCP ?": 1352
           }

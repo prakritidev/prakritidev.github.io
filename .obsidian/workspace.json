@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/Recursive DNS.md",
+                "file": "content/Tech/What is a Socket ?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/Recursive DNS.md",
+                "file": "content/Tech/What is a Socket ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/Recursive DNS.md",
+                "file": "content/Tech/What is a Socket ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/Recursive DNS.md"
+                "file": "content/Tech/What is a Socket ?.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "fa78973efbfa7a17",
   "lastOpenFiles": [
-    "content/Tech/How HTTP works over TCP ?.md",
     "content/Tech/What happens when you make a request to a website like “google.com” using a browser or a curl command ?.md",
     "content/Tech/Recursive DNS.md",
+    "content/Tech/How HTTP works over TCP ?.md",
     "content/Tech/What is gRPC? .md",
     "content/Tech/NeoVim - Init Setup(Part 2).md",
     "content/Tech/NeoVim - Build from source (Part 1).md",
