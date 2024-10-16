@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/Git Advanced.md",
+                "file": "content/High Level System Design/Proximity Service.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Tech/Git Advanced.md",
+                "file": "content/High Level System Design/Proximity Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Tech/Git Advanced.md",
+                "file": "content/High Level System Design/Proximity Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Tech/Git Advanced.md"
+                "file": "content/High Level System Design/Proximity Service.md"
               }
             }
           },
@@ -147,14 +147,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3308a0397f666fe1",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +172,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fa78973efbfa7a17",
+  "active": "3308a0397f666fe1",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "content/High Level System Design/Proximity Service.md",
+    "content/High Level System Design/Index.md",
+    "content/Low Level Desing/Index.md",
+    "content/High Level System Design",
+    "content/FinanceKernal/Long-Short Ranking Model.md",
+    "content/FinanceKernal/Data Collection And Database Choice.md",
+    "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
+    "content/FinanceKernal/Derivative .md",
+    "content/FinanceKernal/Introduction.md",
+    "content/FinanceKernal/undefined.md",
+    "content/FinanceKernal/Stock Selection Algorithm.md",
+    "content/FinanceKernal/manuscript.md",
+    "content/FinanceKernal/basics",
+    "content/FinanceKernal/Low Level System Design.md",
+    "content/FinanceKernal/Trading System Requirements.md",
+    "content/FinanceKernal/Swing Trading - 01.md",
+    "content/FinanceKernal/High Level Design.md",
+    "content/Tech/Git Advanced.md",
     "content/Tech/What is a Socket ?.md",
     "content/Tech/What happens when you make a request to a website like “google.com” using a browser or a curl command ?.md",
     "content/Tech/Recursive DNS.md",
@@ -179,23 +206,6 @@
     "content/Tech/NeoVim - Build from source (Part 1).md",
     "content/Tech/Java - jdk (open source getting started).md",
     "content/Tech/Java - Count Min Sketch .md",
-    "content/Tech/Java - Collections (Basics).md",
-    "content/Tech/Git Advanced.md",
-    "content/Tech/Transations - 2 PC and 3 PC .md",
-    "content/Tech/MultiThreading.md",
-    "content/Tech/Java Streams (Part 1).md",
-    "content/Tech/MySQL 8 Write Ahead Async Log .md",
-    "content/Tech/Terminal - Warp vs iterm2.md",
-    "content/Tech/What is IPC ?.md",
-    "content/Understanding Of Life/What is the essence of this series?.md",
-    "content/Understanding Of Life/Index.md",
-    "content/Understanding Of Life/How to earn respect in front of parents ? index.md",
-    "content/Tech/Java - Lambda and Functional Interfaces.md",
-    "content/Tech/JQ (Basics) - Json Processing on terminal.md",
-    "content/Tech/Index.md",
-    "content/Tech/Go - Defer.md",
-    "content/Tech/Git Basics.md",
-    "content/Tech/GNU Parallel - Alternative to Language Programming.md",
     "content/Understanding Of Life",
     "content/Tech",
     "content/Negotiations (Interview or life)",
@@ -207,8 +217,6 @@
     "Untitled.canvas",
     "public/404.html",
     "public/static/og-image.png",
-    "public/static/icon.png",
-    "public/static/contentIndex.json",
-    "public/static"
+    "public/static/icon.png"
   ]
 }

@@ -14,6 +14,9 @@ longform:
     - Data Collection And Database Choice
     - High Level Design
     - "Derivative "
+    - Basics- Accessaible Quant stratagies
+    - Long-Short Ranking Model
   sceneTemplate: templates/Readme.md
-  ignoredFiles: []
+  ignoredFiles:
+    - manuscript
 ---
