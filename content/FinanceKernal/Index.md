@@ -6,8 +6,8 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
-    - Low Level System Design
-    - Trading System Requirements
+    - Idea of Finance Kernel
+    - Trading System - High Level System Design
     - Swing Trading - 01
     - Swing Trading - 02
     - Stock Selection Algorithm
@@ -16,6 +16,8 @@ longform:
     - "Derivative "
     - Basics- Accessaible Quant stratagies
     - Long-Short Ranking Model
+    - Trading System - Low Level System Design (Data scrapper)
+    - Trading System - Low Level System Design (Data Processor)
   sceneTemplate: templates/Readme.md
   ignoredFiles:
     - manuscript

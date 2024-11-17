@@ -1,13 +1,11 @@
 ---
 longform:
   format: scenes
-  title: High Level System Design
+  title: TimeSeries-MachineLearning
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Proximity Service
-    - Tiny-URL with pastebin Service
-    - Insta-twitter service
+    - Stationary Time Series
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---
