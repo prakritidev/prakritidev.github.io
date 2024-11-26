@@ -18,6 +18,11 @@ longform:
     - Long-Short Ranking Model
     - Trading System - Low Level System Design (Data scrapper)
     - Trading System - Low Level System Design (Data Processor)
+    - Trading System - Low Level System Design (Data Processor)
+    - Trading System - Low Level System Design (Data Processor)
+    - Trading System - Low Level System Design (Portfolio Construction)
+    - Trading System - Low Level System Design (portfolio optimisation)
+    - What are Returns ?
   sceneTemplate: templates/Readme.md
   ignoredFiles:
     - manuscript

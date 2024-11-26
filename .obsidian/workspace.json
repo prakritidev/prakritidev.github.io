@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1fbc8d42cb99a1bc",
+        "id": "0bc1eaaa48cfd90e",
         "type": "tabs",
         "children": [
           {
-            "id": "4cd9e7628870e5c0",
+            "id": "3198ef0b59b08f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
+                "file": "content/FinanceKernal/What are Returns ?.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading System - Low Level System Design (Data Processor)"
+              "title": "What are Returns ?"
             }
           }
         ],
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.50043487548828
   },
   "right": {
     "id": "249670e8eeac3ae4",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
+                "file": "content/FinanceKernal/What are Returns ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trading System - Low Level System Design (Data Processor)"
+              "title": "Backlinks for What are Returns ?"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
+                "file": "content/FinanceKernal/What are Returns ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trading System - Low Level System Design (Data Processor)"
+              "title": "Outgoing links from What are Returns ?"
             }
           },
           {
@@ -152,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md"
+                "file": "content/FinanceKernal/What are Returns ?.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Trading System - Low Level System Design (Data Processor)"
+              "title": "Outline of What are Returns ?"
             }
           },
           {
@@ -169,7 +169,7 @@
             }
           },
           {
-            "id": "3308a0397f666fe1",
+            "id": "3deba9b5b2451f8c",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,14 +198,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4cd9e7628870e5c0",
+  "active": "3198ef0b59b08f58",
   "lastOpenFiles": [
-    "content/FinanceKernal/Trading System - High Level System Design.md",
-    "content/FinanceKernal/Idea of Finance Kernel.md",
+    "content/FinanceKernal/Trading System - Low Level System Design (portfolio optimisation).md",
+    "content/FinanceKernal/Trading System - Low Level System Design (Portfolio Construction).md",
     "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
     "content/FinanceKernal/Trading System - Low Level System Design (Data scrapper).md",
-    "content/FinanceKernal/Swing Trading - 01.md",
+    "content/FinanceKernal/Long-Short Ranking Model.md",
+    "content/FinanceKernal/What are Returns ?.md",
+    "content/FinanceKernal/Idea of Finance Kernel.md",
+    "content/FinanceKernal/Trading System - High Level System Design.md",
+    "content/FinanceKernal/Swing Trading - 02.md",
     "content/FinanceKernal/Stock Selection Algorithm.md",
+    "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
+    "content/FinanceKernal/Derivative .md",
+    "content/FinanceKernal/Swing Trading - 01.md",
     "content/FinanceKernal/TimeSeries-MachineLearning/Stationary Time Series.md",
     "content/FinanceKernal/undefined.md",
     "content/FinanceKernal/TimeSeries-MachineLearning/sfv.md",
@@ -219,18 +225,11 @@
     "content/High Level System Design/Index.md",
     "content/Low Level Desing/Index.md",
     "content/High Level System Design",
-    "content/FinanceKernal/Long-Short Ranking Model.md",
     "content/FinanceKernal/Data Collection And Database Choice.md",
-    "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
-    "content/FinanceKernal/Derivative .md",
     "content/FinanceKernal/Introduction.md",
     "content/FinanceKernal/manuscript.md",
     "content/FinanceKernal/basics",
     "content/FinanceKernal/High Level Design.md",
-    "content/Tech/Git Advanced.md",
-    "content/Tech/What is a Socket ?.md",
-    "content/Tech/What happens when you make a request to a website like “google.com” using a browser or a curl command ?.md",
-    "content/Tech/Recursive DNS.md",
     "content/Understanding Of Life",
     "content/Tech",
     "content/Negotiations (Interview or life)",

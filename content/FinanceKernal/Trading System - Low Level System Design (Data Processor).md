@@ -1,7 +1,10 @@
 ---
 title: '"Trading System - Low Level System Design (Data Processor)"'
 draft: 
-tags: []
+tags:
+  - AlgoTrading
+  - architecture
+  - High-Level-Design
 ---
 ### High-Level Flow:
 
@@ -331,3 +334,6 @@ with mlflow.start_run():
 1. **Airflow** orchestrates the entire process: Data ingestion, feature engineering, and storing features in the Feature Store.
 2. **Feast** is used for managing features and making them accessible for real-time and batch serving.
 3. **MLflow** is used to track the feature engineering process, log metadata, and monitor models (if needed).
+
+
+
