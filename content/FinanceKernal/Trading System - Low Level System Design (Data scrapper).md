@@ -3,7 +3,6 @@ title: '"Trading System - Low Level System Design"'
 draft: 
 tags: []
 ---
-Yes, exactly! Here's a more structured breakdown of what you can do:
 
 ### **1. Create a Well-Defined Folder Structure for S3**
 The idea is to organize the data into a hierarchy that is easy to query and retrieve later. The folder structure should follow a pattern that makes it clear where the data for each stock symbol is and which date it corresponds to.
@@ -67,3 +66,4 @@ This script uploads the scraped data for each stock symbol into the appropriate 
 - **Easy Data Retrieval**: You can easily query or load data by specifying the stock symbol and date range.
 
 ---
+- [x] This pipeline is Build and ready on production.

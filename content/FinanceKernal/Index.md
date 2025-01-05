@@ -8,8 +8,6 @@ longform:
     - Introduction
     - Idea of Finance Kernel
     - Trading System - High Level System Design
-    - Swing Trading - 01
-    - Swing Trading - 02
     - Stock Selection Algorithm
     - Data Collection And Database Choice
     - High Level Design
@@ -18,11 +16,15 @@ longform:
     - Long-Short Ranking Model
     - Trading System - Low Level System Design (Data scrapper)
     - Trading System - Low Level System Design (Data Processor)
-    - Trading System - Low Level System Design (Data Processor)
-    - Trading System - Low Level System Design (Data Processor)
     - Trading System - Low Level System Design (Portfolio Construction)
-    - Trading System - Low Level System Design (portfolio optimisation)
     - What are Returns ?
+    - Trading System - Time Series - Clustering
+    - Trading System - Time Series - Clustering - Part 2
+    - Trading System - Time Series - Clustering - Part 3
+    - Trading System - Feature Engineering - Part 1
+    - TimeSeries - Part 1
+    - Options Trading - Part 1
+    - "Options Trading - Part 2 "
   sceneTemplate: templates/Readme.md
   ignoredFiles:
     - manuscript
