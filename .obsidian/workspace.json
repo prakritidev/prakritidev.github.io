@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FinanceKernal/Options Trading - Part 1.md",
+                "file": "content/FinanceKernal/AutoEncoders.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Options Trading - Part 1"
+              "title": "AutoEncoders"
             }
           }
         ],
@@ -90,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 490.50271224975586
+    "width": 337.5004348754883
   },
   "right": {
     "id": "249670e8eeac3ae4",
@@ -201,17 +210,24 @@
   },
   "active": "3198ef0b59b08f58",
   "lastOpenFiles": [
-    "content/FinanceKernal/Options Trading - Part 2 .md",
-    "content/FinanceKernal/Options Trading - Part 1.md",
-    "content/FinanceKernal/TimeSeries - Part 1.md",
-    "content/FinanceKernal/Trading System - Time Series - Clustering - Part 3.md",
+    "content/FinanceKernal/Hidden Markov Models - Part 1.md",
+    "content/FinanceKernal/AutoEncoders.md",
+    "content/FinanceKernal/Market Regime Classification - Baseline HMM and GARCH Models.md",
+    "content/FinanceKernal/Market Regime Classification - Documentation.md",
+    "content/FinanceKernal/Index.md",
+    "content/FinanceKernal/Introduction.md",
+    "content/FinanceKernal/Idea of Finance Kernel.md",
     "content/FinanceKernal/Trading System - Feature Engineering - Part 1.md",
+    "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
+    "content/FinanceKernal/Trading System - Time Series - Clustering - Part 2.md",
+    "content/FinanceKernal/Trading System - Time Series - Clustering - Part 3.md",
+    "content/FinanceKernal/TimeSeries - Part 1.md",
+    "content/FinanceKernal/Options Trading - Part 1.md",
+    "content/FinanceKernal/Options Trading - Part 2 .md",
     "content/FinanceKernal/Trading System - High Level System Design.md",
     "content/FinanceKernal/Stock Selection Algorithm.md",
     "content/FinanceKernal/Trading System - Low Level System Design (Data scrapper).md",
-    "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
     "content/FinanceKernal/Trading System - Low Level System Design (Portfolio Construction).md",
-    "content/FinanceKernal/Trading System - Time Series - Clustering - Part 2.md",
     "content/FinanceKernal/Trading System - Time Series - Clustering.md",
     "content/FinanceKernal/What are Returns ?.md",
     "content/FinanceKernal/Trading System - Low Level System Design (portfolio optimisation).md",
@@ -220,13 +236,6 @@
     "content/FinanceKernal/Derivative .md",
     "content/FinanceKernal/High Level Design.md",
     "content/FinanceKernal/Data Collection And Database Choice.md",
-    "content/FinanceKernal/Swing Trading - 02.md",
-    "content/FinanceKernal/Swing Trading - 01.md",
-    "content/FinanceKernal/Idea of Finance Kernel.md",
-    "content/FinanceKernal/Introduction.md",
-    "content/FinanceKernal/TimeSeries-MachineLearning/Stationary Time Series.md",
-    "content/FinanceKernal/undefined.md",
-    "content/FinanceKernal/TimeSeries-MachineLearning/sfv.md",
     "content/FinanceKernal/TimeSeries-MachineLearning",
     "Untitled 2.canvas",
     "content/High Level System Design",

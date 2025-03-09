@@ -25,6 +25,10 @@ longform:
     - TimeSeries - Part 1
     - Options Trading - Part 1
     - "Options Trading - Part 2 "
+    - Market Regime Classification - Documentation
+    - Market Regime Classification - Baseline HMM and GARCH Models
+    - Hidden Markov Models - Part 1
+    - AutoEncoders
   sceneTemplate: templates/Readme.md
   ignoredFiles:
     - manuscript

@@ -6,6 +6,1091 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-03-04T18:04:09.691Z",
+      "total": 13,
+      "drafts": {
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 13,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0,
+            "Market Regime Classification - Documentation": 0,
+            "Market Regime Classification - Baseline HMM and GARCH Models": 0,
+            "Hidden Markov Models - Part 1": 0,
+            "AutoEncoders": 13
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-02T19:50:55.299Z",
+      "total": 112,
+      "drafts": {
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 112,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0,
+            "Market Regime Classification - Documentation": 0,
+            "Market Regime Classification - Baseline HMM and GARCH Models": 0,
+            "Hidden Markov Models - Part 1": 0,
+            "AutoEncoders": 112
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-30T19:46:38.325Z",
+      "total": 0,
+      "drafts": {
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0,
+            "Market Regime Classification - Documentation": 0,
+            "Market Regime Classification - Baseline HMM and GARCH Models": 0,
+            "Hidden Markov Models - Part 1": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-25T10:47:14.213Z",
+      "total": 0,
+      "drafts": {
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0,
+            "Market Regime Classification - Documentation": 0,
+            "Market Regime Classification - Baseline HMM and GARCH Models": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-21T23:03:44.454Z",
+      "total": 2135,
+      "drafts": {
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 2135,
+          "scenes": {
+            "Introduction": 1566,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0,
+            "Market Regime Classification - Documentation": 569,
+            "Market Regime Classification - Baseline HMM and GARCH Models": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-16T19:19:14.574Z",
+      "total": 0,
+      "drafts": {
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-14T10:15:29.908Z",
+      "total": 70,
+      "drafts": {
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 70,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 70,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-11T19:32:55.214Z",
+      "total": 0,
+      "drafts": {
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-09T18:08:04.904Z",
+      "total": 0,
+      "drafts": {
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-07T17:21:12.282Z",
+      "total": 374,
+      "drafts": {
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0
+          }
+        },
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 374,
+          "scenes": {
+            "Introduction": 374,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative ": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns ?": 0,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-01-04T19:02:49.862Z",
       "total": 1448,
       "drafts": {
@@ -2052,849 +3137,6 @@
             "SQS, SNS, and SWF": 0,
             "VPC (Virtual Private Cloud)": 0,
             "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-11-01T20:54:44.317Z",
-      "total": 167,
-      "drafts": {
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/High Level System Design/Index.md": {
-          "total": 167,
-          "scenes": {
-            "Proximity Service": 0,
-            "Tiny-URL with pastebin Service": 167
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 0,
-            "Long-Short Ranking Model": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-10-16T18:30:02.111Z",
-      "total": 280,
-      "drafts": {
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 0,
-            "Long-Short Ranking Model": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        },
-        "content/High Level System Design/Index.md": {
-          "total": 280,
-          "scenes": {
-            "Proximity Service": 280
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-10-16T18:04:40.823Z",
-      "total": 213,
-      "drafts": {
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 0,
-            "Long-Short Ranking Model": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        },
-        "content/High Level System Design/Index.md": {
-          "total": 213,
-          "scenes": {
-            "Proximity Service": 213
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-09-28T12:10:47.536Z",
-      "total": 0,
-      "drafts": {
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 0,
-            "Long-Short Ranking Model": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-09-26T17:53:08.180Z",
-      "total": 20,
-      "drafts": {
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 20,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 0,
-            "Long-Short Ranking Model": 20
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-09-22T17:53:14.757Z",
-      "total": 43,
-      "drafts": {
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 43,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 43
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-08-15T19:58:40.216Z",
-      "total": 5980,
-      "drafts": {
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 5980,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 672,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 1889,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 1194,
-            "Recursive DNS": 873,
-            "How HTTP works over TCP ?": 1352
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-08-11T20:00:09.754Z",
-      "total": 0,
-      "drafts": {
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "How it all works on browser ?": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-08-11T10:28:45.888Z",
-      "total": 0,
-      "drafts": {
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "How it all works on browser ?": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-07-13T07:07:09.454Z",
-      "total": 33,
-      "drafts": {
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        },
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 33,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 33
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Introduction": 0,
-            "Low Level System Design": 0,
-            "Trading System Requirements": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0
           }
         }
       }

@@ -36,3 +36,5 @@ how to make time series sationalry ?
 2. Log Operation
 3. Seasonal Differencing
 4.  
+
+

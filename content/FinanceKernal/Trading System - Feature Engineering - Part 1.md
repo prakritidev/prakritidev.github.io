@@ -62,5 +62,34 @@ Moving Average of Volume-to-Price Ratio mav_vpr = df['volume'] / df['close'].rol
 14-day Average of Price Range price_range_avg = df.groupby('isin')['price_range'].transform(lambda x: x.rolling(window=14).mean()) NA The average range between closing price and low price over a rolling window.
 
   
+## Data Engineering of Volume
 
-This table includes both custom features we discussed and the corresponding TA-Lib indicators, along with their descriptions and Python code where applicable. Let me know if you need further adjustments!
+#### Techical Indicators.
+
+1. Volume profile.
+	1. key level or key zone
+		1. Can we converted into a feature
+2. Stochastic Indicator
+	1. %D
+	2. %K
+		1. Cross over method
+3. Add candle information as well 
+4. Don Chain Channels 
+	1. Best for support and resistance
+5. Anchored VWAP
+6. Bollinger bands
+7.  macd line
+8. ichimoku cloud
+9. fibonacci
+10. RSI Diver
+
+#### Lagged Features 
+
+Need to check how many lags do we need for 30 dats timeframe. Use ACP or PACF for testing the significance.
+
+
+### Decomposition 
+
+1. trend with lags 
+2. seasonalty woth lags 
+3. noise 
