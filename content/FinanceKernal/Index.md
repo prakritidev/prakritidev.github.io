@@ -29,6 +29,9 @@ longform:
     - Market Regime Classification - Baseline HMM and GARCH Models
     - Hidden Markov Models - Part 1
     - AutoEncoders
+    - Finance Information Extraction - Feature Engineering - Part 1
+    - Finance Information Extraction - Feature Engineering - Part 2
+    - Finance Information Extraction - Feature Engineering - Chaos Theory
   sceneTemplate: templates/Readme.md
   ignoredFiles:
     - manuscript

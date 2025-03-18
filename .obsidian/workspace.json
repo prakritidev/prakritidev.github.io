@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FinanceKernal/AutoEncoders.md",
+                "file": "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AutoEncoders"
+              "title": "Finance Information Extraction - Feature Engineering - Part 2"
             }
           }
         ],
@@ -210,8 +210,11 @@
   },
   "active": "3198ef0b59b08f58",
   "lastOpenFiles": [
-    "content/FinanceKernal/Hidden Markov Models - Part 1.md",
+    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 1.md",
+    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Chaos Theory.md",
+    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 2.md",
     "content/FinanceKernal/AutoEncoders.md",
+    "content/FinanceKernal/Hidden Markov Models - Part 1.md",
     "content/FinanceKernal/Market Regime Classification - Baseline HMM and GARCH Models.md",
     "content/FinanceKernal/Market Regime Classification - Documentation.md",
     "content/FinanceKernal/Index.md",
@@ -233,9 +236,6 @@
     "content/FinanceKernal/Trading System - Low Level System Design (portfolio optimisation).md",
     "content/FinanceKernal/Long-Short Ranking Model.md",
     "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
-    "content/FinanceKernal/Derivative .md",
-    "content/FinanceKernal/High Level Design.md",
-    "content/FinanceKernal/Data Collection And Database Choice.md",
     "content/FinanceKernal/TimeSeries-MachineLearning",
     "Untitled 2.canvas",
     "content/High Level System Design",
