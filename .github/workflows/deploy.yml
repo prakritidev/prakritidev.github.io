@@ -34,7 +34,7 @@ jobs:
       - name: Build Quartz Site
         run: npx quartz build
 
-      - name: Debug: Check public directory
+      - name: Check public directory
         run: |
           if [ -d "public" ]; then
             echo "✅ Public directory exists. Listing contents:"
