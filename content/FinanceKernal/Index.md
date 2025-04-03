@@ -11,7 +11,7 @@ longform:
     - Stock Selection Algorithm
     - Data Collection And Database Choice
     - High Level Design
-    - "Derivative "
+    - Derivative Markets - How they work ?
     - Basics- Accessaible Quant stratagies
     - Long-Short Ranking Model
     - Trading System - Low Level System Design (Data scrapper)

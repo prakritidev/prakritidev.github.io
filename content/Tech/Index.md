@@ -32,6 +32,7 @@ longform:
     - What happens when you make a request to a website like “google.com” using a browser or a curl command ?
     - Recursive DNS
     - How HTTP works over TCP ?
+    - Sharding and Replication
   sceneTemplate: templates/Readme.md
   ignoredFiles: []
 ---

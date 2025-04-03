@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 2.md",
+                "file": "content/FinanceKernal/Derivative Markets - How they work ?.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Finance Information Extraction - Feature Engineering - Part 2"
+              "title": "Derivative Markets - How they work ?"
             }
           }
         ],
@@ -51,7 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -210,32 +211,32 @@
   },
   "active": "3198ef0b59b08f58",
   "lastOpenFiles": [
-    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 1.md",
-    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Chaos Theory.md",
-    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 2.md",
-    "content/FinanceKernal/AutoEncoders.md",
-    "content/FinanceKernal/Hidden Markov Models - Part 1.md",
-    "content/FinanceKernal/Market Regime Classification - Baseline HMM and GARCH Models.md",
-    "content/FinanceKernal/Market Regime Classification - Documentation.md",
-    "content/FinanceKernal/Index.md",
-    "content/FinanceKernal/Introduction.md",
+    "content/Tech/What is a Socket ?.md",
+    "content/FinanceKernal/TimeSeries-MachineLearning/Index.md",
     "content/FinanceKernal/Idea of Finance Kernel.md",
-    "content/FinanceKernal/Trading System - Feature Engineering - Part 1.md",
-    "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
-    "content/FinanceKernal/Trading System - Time Series - Clustering - Part 2.md",
-    "content/FinanceKernal/Trading System - Time Series - Clustering - Part 3.md",
-    "content/FinanceKernal/TimeSeries - Part 1.md",
-    "content/FinanceKernal/Options Trading - Part 1.md",
-    "content/FinanceKernal/Options Trading - Part 2 .md",
     "content/FinanceKernal/Trading System - High Level System Design.md",
     "content/FinanceKernal/Stock Selection Algorithm.md",
-    "content/FinanceKernal/Trading System - Low Level System Design (Data scrapper).md",
-    "content/FinanceKernal/Trading System - Low Level System Design (Portfolio Construction).md",
-    "content/FinanceKernal/Trading System - Time Series - Clustering.md",
-    "content/FinanceKernal/What are Returns ?.md",
-    "content/FinanceKernal/Trading System - Low Level System Design (portfolio optimisation).md",
-    "content/FinanceKernal/Long-Short Ranking Model.md",
+    "content/FinanceKernal/High Level Design.md",
     "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
+    "content/FinanceKernal/Long-Short Ranking Model.md",
+    "content/FinanceKernal/Trading System - Low Level System Design (Data scrapper).md",
+    "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
+    "content/FinanceKernal/What are Returns ?.md",
+    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Chaos Theory.md",
+    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 1.md",
+    "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 2.md",
+    "content/FinanceKernal/Market Regime Classification - Documentation.md",
+    "content/FinanceKernal/Introduction.md",
+    "content/Tech/Efficient Data Processing on a Budget - My Journey with File-Based Queues.md",
+    "content/Tech/GNU Parallel - Alternative to Language Programming.md",
+    "content/Tech/Cloud Design Patterns.md",
+    "content/Tech/Caching.md",
+    "content/Tech/Bloom Filter Implementation in Java .md",
+    "content/Tech/Battle - NodeJs vs Spring Webflux.md",
+    "content/Tech/A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue.md",
+    "content/Tech/Java - Lambda and Functional Interfaces.md",
+    "content/Tech/Transations - 2 PC and 3 PC .md",
+    "content/Tech/MultiThreading.md",
     "content/FinanceKernal/TimeSeries-MachineLearning",
     "Untitled 2.canvas",
     "content/High Level System Design",
