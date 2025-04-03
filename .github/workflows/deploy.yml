@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 
+          fetch-depth: 0  # Fetch full history
 
       - name: Set Up Node.js
         uses: actions/setup-node@v4
@@ -34,20 +34,20 @@ jobs:
       - name: Build Quartz Site
         run: npx quartz build
 
-      - name: Check if Build Directory Exists
+      - name: Debug: Check public directory
         run: |
           if [ -d "public" ]; then
-            echo " Public directory exists. Listing contents:"
+            echo "✅ Public directory exists. Listing contents:"
             ls -al public
           else
-            echo " Error: Public directory not found!"
+            echo "❌ Error: Public directory not found!"
             exit 1
           fi
 
       - name: Upload Built Site
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3  # Ensure correct version
         with:
-          name: github-pages  
+          name: github-pages  # Ensure artifact name matches
           path: public
 
   deploy:
@@ -61,4 +61,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact_name: github-pages  
+          artifact_name: github-pages  # Explicitly reference artifact
