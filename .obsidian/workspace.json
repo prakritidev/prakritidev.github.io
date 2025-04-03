@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "88e1c5260a753db4",
+            "id": "b0b372eed54fb907",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +208,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3198ef0b59b08f58",
+  "active": "b0b372eed54fb907",
   "lastOpenFiles": [
     "content/Tech/What is a Socket ?.md",
     "content/FinanceKernal/TimeSeries-MachineLearning/Index.md",
