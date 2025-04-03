@@ -1,26 +1,26 @@
 name: Deploy Quartz site to GitHub Pages
- 
+
 on:
   push:
     branches:
       - master
- 
+
 permissions:
   contents: read
   pages: write
   id-token: write
- 
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
- 
+
 jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for git info
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 18.14
@@ -28,9 +28,12 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Debug: Check public directory
+        run: ls -al public
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
+          name: github-pages  # Ensure artifact name matches
           path: public
 
   deploy:
@@ -43,3 +46,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: github-pages
