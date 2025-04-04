@@ -6,6 +6,121 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-04-04T05:59:24.757Z",
+      "total": 1687,
+      "drafts": {
+        "content/Negotiations (Interview or life)/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
+          }
+        },
+        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Stationary Time Series": 0
+          }
+        },
+        "content/FinanceKernal/Index.md": {
+          "total": 1687,
+          "scenes": {
+            "Introduction": 0,
+            "Idea of Finance Kernel": 0,
+            "Trading System - High Level System Design": 0,
+            "Stock Selection Algorithm": 0,
+            "Data Collection And Database Choice": 0,
+            "High Level Design": 0,
+            "Derivative Markets - How they work ?": 0,
+            "Basics- Accessaible Quant stratagies": 0,
+            "Long-Short Ranking Model": 0,
+            "Trading System - Low Level System Design (Data scrapper)": 0,
+            "Trading System - Low Level System Design (Data Processor)": 0,
+            "Trading System - Low Level System Design (Portfolio Construction)": 0,
+            "What are Returns - Really and how not to lie to yourself?": 1687,
+            "Trading System - Time Series - Clustering": 0,
+            "Trading System - Time Series - Clustering - Part 2": 0,
+            "Trading System - Time Series - Clustering - Part 3": 0,
+            "Trading System - Feature Engineering - Part 1": 0,
+            "TimeSeries - Part 1": 0,
+            "Options Trading - Part 1": 0,
+            "Options Trading - Part 2 ": 0,
+            "Market Regime Classification - Documentation": 0,
+            "Market Regime Classification - Baseline HMM and GARCH Models": 0,
+            "Hidden Markov Models - Part 1": 0,
+            "AutoEncoders": 0,
+            "Finance Information Extraction - Feature Engineering - Part 1": 0,
+            "Finance Information Extraction - Feature Engineering - Part 2": 0,
+            "Finance Information Extraction - Feature Engineering - Chaos Theory": 0
+          }
+        },
+        "content/Understanding Of Life/Index.md": {
+          "total": 0,
+          "scenes": {
+            "What is the essence of this series?": 0
+          }
+        },
+        "content/Tech/Index.md": {
+          "total": 0,
+          "scenes": {
+            "MySQL 8 Write Ahead Async Log ": 0,
+            "Java Streams (Part 1)": 0,
+            "MultiThreading": 0,
+            "Transations - 2 PC and 3 PC ": 0,
+            "What is gRPC? ": 0,
+            "What is IPC ?": 0,
+            "What is a Socket ?": 0,
+            "Terminal - Warp vs iterm2": 0,
+            "Java - Lambda and Functional Interfaces": 0,
+            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
+            "Battle - NodeJs vs Spring Webflux": 0,
+            "Bloom Filter Implementation in Java ": 0,
+            "Caching": 0,
+            "Cloud Design Patterns": 0,
+            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
+            "GNU Parallel - Alternative to Language Programming": 0,
+            "Git Advanced": 0,
+            "Git Basics": 0,
+            "Go - Defer": 0,
+            "JQ (Basics) - Json Processing on terminal": 0,
+            "Java - Collections (Basics)": 0,
+            "Java - Count Min Sketch ": 0,
+            "Java - jdk (open source getting started)": 0,
+            "NeoVim - Build from source (Part 1)": 0,
+            "NeoVim - Init Setup(Part 2)": 0,
+            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
+            "Recursive DNS": 0,
+            "How HTTP works over TCP ?": 0,
+            "Sharding and Replication": 0
+          }
+        },
+        "content/Low Level Desing/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Interviews - ParkingLot low Level Design": 0,
+            "Interviers - LeetCode": 0,
+            "Interviews - Hotel Booking (MMT)": 0
+          }
+        },
+        "content/High Level System Design/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Proximity Service": 0,
+            "Tiny-URL with pastebin Service": 0,
+            "Insta-twitter service": 0
+          }
+        },
+        "content/AWS Associate Architect Notes/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Security and IAM": 0,
+            "SQS, SNS, and SWF": 0,
+            "VPC (Virtual Private Cloud)": 0,
+            "S3 and Glacier": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-04-03T12:03:41.212Z",
       "total": 709,
       "drafts": {
@@ -3136,109 +3251,6 @@
             "Basics- Accessaible Quant stratagies": 0,
             "Long-Short Ranking Model": 0,
             "Trading System - Low Level System Design (Data scrapper)": 0,
-            "Trading System - Low Level System Design (Data Processor)": 0,
-            "Trading System - Low Level System Design (Portfolio Construction)": 0,
-            "Trading System - Low Level System Design (portfolio optimisation)": 0,
-            "What are Returns ?": 0
-          }
-        },
-        "content/AWS Associate Architect Notes/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Security and IAM": 0,
-            "SQS, SNS, and SWF": 0,
-            "VPC (Virtual Private Cloud)": 0,
-            "S3 and Glacier": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-11-30T16:46:49.207Z",
-      "total": 27,
-      "drafts": {
-        "content/High Level System Design/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Proximity Service": 0,
-            "Tiny-URL with pastebin Service": 0,
-            "Insta-twitter service": 0
-          }
-        },
-        "content/Understanding Of Life/Index.md": {
-          "total": 0,
-          "scenes": {
-            "What is the essence of this series?": 0
-          }
-        },
-        "content/Negotiations (Interview or life)/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - How to fuckup the first round of interview but still end up getting into second round": 0
-          }
-        },
-        "content/Tech/Index.md": {
-          "total": 0,
-          "scenes": {
-            "MySQL 8 Write Ahead Async Log ": 0,
-            "Java Streams (Part 1)": 0,
-            "MultiThreading": 0,
-            "Transations - 2 PC and 3 PC ": 0,
-            "What is gRPC? ": 0,
-            "What is IPC ?": 0,
-            "What is a Socket ?": 0,
-            "Terminal - Warp vs iterm2": 0,
-            "Java - Lambda and Functional Interfaces": 0,
-            "A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue": 0,
-            "Battle - NodeJs vs Spring Webflux": 0,
-            "Bloom Filter Implementation in Java ": 0,
-            "Caching": 0,
-            "Cloud Design Patterns": 0,
-            "Efficient Data Processing on a Budget - My Journey with File-Based Queues": 0,
-            "GNU Parallel - Alternative to Language Programming": 0,
-            "Git Advanced": 0,
-            "Git Basics": 0,
-            "Go - Defer": 0,
-            "JQ (Basics) - Json Processing on terminal": 0,
-            "Java - Collections (Basics)": 0,
-            "Java - Count Min Sketch ": 0,
-            "Java - jdk (open source getting started)": 0,
-            "NeoVim - Build from source (Part 1)": 0,
-            "NeoVim - Init Setup(Part 2)": 0,
-            "What happens when you make a request to a website like “google.com” using a browser or a curl command ?": 0,
-            "Recursive DNS": 0,
-            "How HTTP works over TCP ?": 0
-          }
-        },
-        "content/Low Level Desing/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Interviews - ParkingLot low Level Design": 0,
-            "Interviers - LeetCode": 0,
-            "Interviews - Hotel Booking (MMT)": 0
-          }
-        },
-        "content/FinanceKernal/TimeSeries-MachineLearning/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Stationary Time Series": 0
-          }
-        },
-        "content/FinanceKernal/Index.md": {
-          "total": 27,
-          "scenes": {
-            "Introduction": 0,
-            "Idea of Finance Kernel": 0,
-            "Trading System - High Level System Design": 0,
-            "Swing Trading - 01": 0,
-            "Swing Trading - 02": 0,
-            "Stock Selection Algorithm": 0,
-            "Data Collection And Database Choice": 0,
-            "High Level Design": 0,
-            "Derivative ": 0,
-            "Basics- Accessaible Quant stratagies": 0,
-            "Long-Short Ranking Model": 0,
-            "Trading System - Low Level System Design (Data scrapper)": 27,
             "Trading System - Low Level System Design (Data Processor)": 0,
             "Trading System - Low Level System Design (Portfolio Construction)": 0,
             "Trading System - Low Level System Design (portfolio optimisation)": 0,

@@ -17,7 +17,7 @@ longform:
     - Trading System - Low Level System Design (Data scrapper)
     - Trading System - Low Level System Design (Data Processor)
     - Trading System - Low Level System Design (Portfolio Construction)
-    - What are Returns ?
+    - What are Returns - Really and how not to lie to yourself?
     - Trading System - Time Series - Clustering
     - Trading System - Time Series - Clustering - Part 2
     - Trading System - Time Series - Clustering - Part 3

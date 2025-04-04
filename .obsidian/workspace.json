@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/FinanceKernal/Derivative Markets - How they work ?.md",
+                "file": "content/FinanceKernal/What are Returns - Really and how not to lie to yourself?.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Derivative Markets - How they work ?"
+              "title": "What are Returns - Really and how not to lie to yourself?"
             }
           }
         ],
@@ -208,19 +208,20 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b0b372eed54fb907",
+  "active": "3198ef0b59b08f58",
   "lastOpenFiles": [
+    "content/FinanceKernal/Long-Short Ranking Model.md",
+    "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
+    "content/FinanceKernal/Derivative Markets - How they work ?.md",
     "content/Tech/What is a Socket ?.md",
     "content/FinanceKernal/TimeSeries-MachineLearning/Index.md",
     "content/FinanceKernal/Idea of Finance Kernel.md",
     "content/FinanceKernal/Trading System - High Level System Design.md",
     "content/FinanceKernal/Stock Selection Algorithm.md",
     "content/FinanceKernal/High Level Design.md",
-    "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
-    "content/FinanceKernal/Long-Short Ranking Model.md",
     "content/FinanceKernal/Trading System - Low Level System Design (Data scrapper).md",
     "content/FinanceKernal/Trading System - Low Level System Design (Data Processor).md",
-    "content/FinanceKernal/What are Returns ?.md",
+    "content/FinanceKernal/What are Returns - Really and how not to lie to yourself?.md",
     "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Chaos Theory.md",
     "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 1.md",
     "content/FinanceKernal/Finance Information Extraction - Feature Engineering - Part 2.md",
@@ -235,7 +236,6 @@
     "content/Tech/A Personal Tale of Data Transformation - The Simple Genius of jq, GNU Parallel, and a Task Queue.md",
     "content/Tech/Java - Lambda and Functional Interfaces.md",
     "content/Tech/Transations - 2 PC and 3 PC .md",
-    "content/Tech/MultiThreading.md",
     "content/FinanceKernal/TimeSeries-MachineLearning",
     "Untitled 2.canvas",
     "content/High Level System Design",
