@@ -26,7 +26,7 @@ Things I did before connecting with recruiter:
 4. He explained me what they do and and they recently raised some Million Dollars etc etc. Then I praised the company of having a good and diverse tech stack. I told him they talk they gave on youtube. I told them they don't frequently publish the tech blogs. 
 	1. Apparently this kinda woked and he setup my first interview with Head of Engineering of the company. (I applied for SDE 2).
 	2. He told me after discussion with the internal team, they are not considering me for SDE 3. 
-\
+
 ##### Step 3:
 
 Receiving the interview link, two guys were there one was HOE and other was the Tech Lead. 
@@ -50,7 +50,6 @@ I denied to go further but I realised some things.
 1. Other side don't know anything about you, you can be a goofy kid or a straight shooter it all depends what kind of rapport you are building. 
 2. Information is leverage, use that leverage to surprise the other person. At the end of the day they are humans. A shocking factor creates a bias in their decision making.
 3. Even if things don't go well, make sure you make the person happy when you exit. Sometimes, last impression sometime makes a difference. 
-4. 
 
 
 

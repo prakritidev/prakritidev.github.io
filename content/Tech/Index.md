@@ -7,7 +7,7 @@ longform:
     - "MySQL 8 Write Ahead Async Log "
     - Java Streams (Part 1)
     - MultiThreading
-    - "Transations - 2 PC and 3 PC "
+    - Distributed Transactions — trying to make sense of 2PC, 3PC, Raft, Saga
     - "What is gRPC? "
     - What is IPC ?
     - What is a Socket ?
