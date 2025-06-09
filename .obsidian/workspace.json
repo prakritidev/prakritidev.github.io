@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Tech/Replication - How it works for all ?.md",
+                "file": "content/Low Level Desing/Interviews - LLD Frameworks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Replication - How it works for all ?"
+              "title": "Interviews - LLD Frameworks"
             }
           }
         ],
@@ -202,12 +202,14 @@
   },
   "active": "3198ef0b59b08f58",
   "lastOpenFiles": [
+    "content/Tech/Database Storage Engine.md",
+    "content/Low Level Desing/Interviews - LLD Frameworks.md",
+    "content/Tech/Replication - How it works for all ?.md",
     "content/Tech/What happens when you make a request to a website like “google.com” using a browser or a curl command ?.md",
     "content/Tech/Java - Collections (Basics).md",
     "content/Tech/Java - Count Min Sketch .md",
     "content/Tech/MySQL 8 Write Ahead Async Log .md",
     "content/Tech/Cloud Design Patterns.md",
-    "content/Tech/Replication - How it works for all ?.md",
     "content/Tech/Terminal - Warp vs iterm2.md",
     "content/Tech/What is a Socket ?.md",
     "content/Tech/What is IPC ?.md",
@@ -226,8 +228,6 @@
     "content/FinanceKernal/Stock Selection Algorithm.md",
     "content/FinanceKernal/High Level Design.md",
     "content/FinanceKernal/Derivative Markets - How they work ?.md",
-    "content/FinanceKernal/Basics- Accessaible Quant stratagies.md",
-    "content/FinanceKernal/Trading System - Low Level System Design (Data scrapper).md",
     "content/FinanceKernal/TimeSeries-MachineLearning",
     "Untitled 2.canvas",
     "content/High Level System Design",
